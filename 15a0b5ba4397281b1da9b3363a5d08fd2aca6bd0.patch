@@ -1,0 +1,23 @@
+From 15a0b5ba4397281b1da9b3363a5d08fd2aca6bd0 Mon Sep 17 00:00:00 2001
+From: zuzia-dev <52371987+zuzia-dev@users.noreply.github.com>
+Date: Wed, 29 Jun 2022 16:28:02 +0000
+Subject: [PATCH] Fixed dependencies
+
+---
+ addon.xml | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/addon.xml b/addon.xml
+index a590f27..2232084 100644
+--- a/addon.xml
++++ b/addon.xml
+@@ -2,7 +2,8 @@
+ <addon id="plugin.video.tvsmartgo" name="Vectra TV Smart GO" version="1.0.6" provider-name="heppen-dev, zuzia-dev">
+   <requires>
+     <import addon="xbmc.python" version="3.0.0"/>
+-    <import addon="script.module.iso8601" />
++    <import addon="script.module.iso8601" version="0.1.12" />
++    <import addon="script.module.pysocks" version="1.6.8" />
+     <import addon="script.module.routing" />
+     <import addon="script.module.requests" />
+     <import addon="script.module.inputstreamhelper"/>
