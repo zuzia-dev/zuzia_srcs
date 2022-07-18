@@ -1,0 +1,21 @@
+From 3f6834174b2d2742392ea6e26e6259c0f125dc03 Mon Sep 17 00:00:00 2001
+From: zuzia-dev <52371987+zuzia-dev@users.noreply.github.com>
+Date: Wed, 29 Jun 2022 16:29:30 +0000
+Subject: [PATCH] Incompatibility Issues on new ISA
+
+---
+ resources/lib/helper.py | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/resources/lib/helper.py b/resources/lib/helper.py
+index e7f7dbf..3102e28 100644
+--- a/resources/lib/helper.py
++++ b/resources/lib/helper.py
+@@ -305,7 +305,6 @@ def play_video(self, stream_url, drm_protocol, drm, license_url):
+             if is_helper.check_inputstream():
+                 play_item.setProperty('inputstream', is_helper.inputstream_addon)
+                 play_item.setMimeType('application/xml+dash')
+-                play_item.setProperty('inputstream.adaptive.max_bandwidth', '99999999')
+                 play_item.setProperty('inputstream.adaptive.manifest_type', drm_protocol)
+                 play_item.setProperty('inputstream.adaptive.license_type', drm)
+                 play_item.setProperty('inputstream.adaptive.license_key', license_url + '||R{SSM}|')
