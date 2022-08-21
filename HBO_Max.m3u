@@ -1,0 +1,13 @@
+#EXTINF:0 tvg-id="HBO HD",HBO HD
+plugin://slyguy.hbo.max/?_=play&_play=1&profile_id=4e7fd0d3-d856-49f7-9caa-592c55cda034&slug=urn%3Ahbo%3Afeature%3AGYfMSIgT-g4S0egEAAAAU
+#EXTINF:0 tvg-id="HBO2 HD",HBO2 HD
+plugin://slyguy.hbo.max/?_=play&_play=1&profile_id=4e7fd0d3-d856-49f7-9caa-592c55cda034&slug=urn%3Ahbo%3Afeature%3AGYfMXqQORuTNJiAEAAABd
+#EXTINF:0 tvg-id="HBO3 HD",HBO3 HD
+plugin://slyguy.hbo.max/?_=play&_play=1&profile_id=4e7fd0d3-d856-49f7-9caa-592c55cda034&slug=urn%3Ahbo%3Afeature%3AGYfMZ6wIMVMPCwgEAAAAu
+
+
+
+
+
+
+
