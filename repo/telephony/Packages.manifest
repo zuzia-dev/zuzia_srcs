@@ -1,0 +1,5298 @@
+Package: asterisk-app-adsiprog
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-adsi
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-adsiprog
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 13670
+Filename: asterisk-app-adsiprog_20.3.0-1_mips_24kc.ipk
+Size: 14494
+SHA256sum: ae53764288a039fc41d5f86e019fbffa1ad240f6eb7cd8bb73ea62def320c205
+Description:  Asterisk ADSI programming application.
+
+Package: asterisk-app-agent-pool
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-agent-pool
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 19697
+Filename: asterisk-app-agent-pool_20.3.0-1_mips_24kc.ipk
+Size: 20476
+SHA256sum: 2646e05667bb3132dfeba985f94523f3cdb76709e20423a2280e0e9e694066c1
+Description:  Call center agent pool applications.
+
+Package: asterisk-app-alarmreceiver
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-alarmreceiver
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 7749
+Filename: asterisk-app-alarmreceiver_20.3.0-1_mips_24kc.ipk
+Size: 8548
+SHA256sum: 4c2cb6b30cd6a84f61ad8cf8eb834a344b47c06c3500cda45bd7aa936ef133c9
+Description:  Alarm receiver for Asterisk.
+
+Package: asterisk-app-amd
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-amd
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 7187
+Filename: asterisk-app-amd_20.3.0-1_mips_24kc.ipk
+Size: 8038
+SHA256sum: 411ede6002f3296d03f83f65006afb840ee3e00a5832789c3614da130ab9b490
+Description:  Answering Machine Detection application.
+
+Package: asterisk-app-attended-transfer
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-attended-transfer
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2621
+Filename: asterisk-app-attended-transfer_20.3.0-1_mips_24kc.ipk
+Size: 3395
+SHA256sum: 65cf87eaacd7d1d698e0ab64535092f968b9bc70d35305c50b2cca6648ddba8d
+Description:  Queues up an attended transfer to a given extension.
+
+Package: asterisk-app-audiosocket
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-audiosocket
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-audiosocket
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3233
+Filename: asterisk-app-audiosocket_20.3.0-1_mips_24kc.ipk
+Size: 3995
+SHA256sum: d07773a452248ef817c9991da4a13d450f95bb785fa47df793d3c81120e6242f
+Description:  Audiosocket app.
+
+Package: asterisk-app-authenticate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-authenticate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3391
+Filename: asterisk-app-authenticate_20.3.0-1_mips_24kc.ipk
+Size: 4148
+SHA256sum: e9236fa28c33ee9d17eb5e4e3bdb30ba11b59aa09c97e26d64a8b440e50c3977
+Description:  Authentication application.
+
+Package: asterisk-app-blind-transfer
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-blind-transfer
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2361
+Filename: asterisk-app-blind-transfer_20.3.0-1_mips_24kc.ipk
+Size: 3199
+SHA256sum: 0e6ebdfa39b984802f6b319afb8b1343294939382499e487074c771121a46eeb
+Description:  Redirects all channels currently bridged to the caller channel to a specified destination.
+
+Package: asterisk-app-bridgeaddchan
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-bridgeaddchan
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2857
+Filename: asterisk-app-bridgeaddchan_20.3.0-1_mips_24kc.ipk
+Size: 3633
+SHA256sum: 904c329abb3d5fecfb9ec1bb63f3dff6c4d10c825a0511f0ab4e6b900cf2a37d
+Description:  Bridge-add-channel application.
+
+Package: asterisk-app-bridgewait
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-bridge-holding
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-bridgewait
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4416
+Filename: asterisk-app-bridgewait_20.3.0-1_mips_24kc.ipk
+Size: 5213
+SHA256sum: 5af056371ba16187ddcc85ea03ee7404d2114acdbebc02ee7075ba132173d375
+Description:  Application to place a channel into a holding bridge.
+
+Package: asterisk-app-broadcast
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-broadcast
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 7136
+Filename: asterisk-app-broadcast_20.3.0-1_mips_24kc.ipk
+Size: 7919
+SHA256sum: 0141f2f749c0c85f9ec6a074906d2ed33fa85de9fd81945c4ca8db38ec4bef50
+Description:  Channel Audio Broadcasting.
+
+Package: asterisk-app-celgenuserevent
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-celgenuserevent
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2205
+Filename: asterisk-app-celgenuserevent_20.3.0-1_mips_24kc.ipk
+Size: 3005
+SHA256sum: 9a0a9070ca4d92a938b9eca457240b1332ace179a7e3161e083c296d9647e5e7
+Description:  Generate a user defined CEL event.
+
+Package: asterisk-app-chanisavail
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-chanisavail
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3208
+Filename: asterisk-app-chanisavail_20.3.0-1_mips_24kc.ipk
+Size: 3980
+SHA256sum: 8a5b3b42fae4495556fd0ab7bc8217b569cb64368be172ad46d95f983160a78d
+Description:  Check channel availability.
+
+Package: asterisk-app-channelredirect
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-channelredirect
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2434
+Filename: asterisk-app-channelredirect_20.3.0-1_mips_24kc.ipk
+Size: 3246
+SHA256sum: 6f939e7f7aee0ee06e698222dd17a2f75c14ad4c94f3a2d003dc525de2e81da6
+Description:  Redirects a given channel to a dialplan target.
+
+Package: asterisk-app-chanspy
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-chanspy
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 11268
+Filename: asterisk-app-chanspy_20.3.0-1_mips_24kc.ipk
+Size: 12080
+SHA256sum: 1b64cc9b5a95b8fa1001ace575c1c154e58aaa1ecab44ac052c1d55ed836f97b
+Description:  Listen to the audio of an active channel.
+
+Package: asterisk-app-confbridge
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-bridge-builtin-features, asterisk-bridge-simple, asterisk-bridge-softmix
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-confbridge
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 58291
+Filename: asterisk-app-confbridge_20.3.0-1_mips_24kc.ipk
+Size: 59064
+SHA256sum: c4362147cecf2aec8985afd2aa07c70f66223d9352829363c626caef85ac0610
+Description:  Conference bridge application.
+
+Package: asterisk-app-controlplayback
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-controlplayback
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3646
+Filename: asterisk-app-controlplayback_20.3.0-1_mips_24kc.ipk
+Size: 4419
+SHA256sum: 3243e08bc4e7319fe73ac8f6c5652cf34fd82cec7f3d5dad4dc07bb6e1111e54
+Description:  Control playback application.
+
+Package: asterisk-app-dictate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-dictate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4180
+Filename: asterisk-app-dictate_20.3.0-1_mips_24kc.ipk
+Size: 4940
+SHA256sum: e5d8ed5d55d8bec2d78aed7fc334a87269440b9c4563fa97157f5220afc31508
+Description:  Virtual dictation machine.
+
+Package: asterisk-app-directed-pickup
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-directed-pickup
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3881
+Filename: asterisk-app-directed-pickup_20.3.0-1_mips_24kc.ipk
+Size: 4662
+SHA256sum: 03f91f22921c1851cc0da9887fab9ae93ffaa529aecf797a5f28d00e12f8e3d5
+Description:  Directed call pickup application.
+
+Package: asterisk-app-directory
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-directory
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8455
+Filename: asterisk-app-directory_20.3.0-1_mips_24kc.ipk
+Size: 9243
+SHA256sum: 0a1b7040a289ce4bdfb934b4bd21df8cce3a00c8211160eadcdfc02f33b48ecb
+Description:  Extension directory.
+
+Package: asterisk-app-disa
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-disa
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5378
+Filename: asterisk-app-disa_20.3.0-1_mips_24kc.ipk
+Size: 6150
+SHA256sum: fe2bfaadb4eb9cc16411c70ecaca5709c909b1275899ff01e806dc92dadc4516
+Description:  Direct Inward System Access application.
+
+Package: asterisk-app-dtmfstore
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-dtmfstore
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4067
+Filename: asterisk-app-dtmfstore_20.3.0-1_mips_24kc.ipk
+Size: 4842
+SHA256sum: 7e7c9104a3ca779afa7c8f5e741d3668eaf10dbb85a92fb27131b296db63a650
+Description:  Technology independent async DTMF storage.
+
+Package: asterisk-app-dumpchan
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-dumpchan
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4713
+Filename: asterisk-app-dumpchan_20.3.0-1_mips_24kc.ipk
+Size: 5481
+SHA256sum: da59845750527567655b02c22163f35cf1e451b397a52934911eae00062d4d69
+Description:  Dump info about the calling channel.
+
+Package: asterisk-app-exec
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-exec
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3403
+Filename: asterisk-app-exec_20.3.0-1_mips_24kc.ipk
+Size: 4165
+SHA256sum: 17260e5c0d0e1ad2001c396c43c40d3b72d1ddc1dec6b57464c196279f9dad79
+Description:  Executes dialplan applications.
+
+Package: asterisk-app-externalivr
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-externalivr
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9700
+Filename: asterisk-app-externalivr_20.3.0-1_mips_24kc.ipk
+Size: 10482
+SHA256sum: 5060ef05fcbe7b0d837b610e3bf47c5217971ca90babf5a7493fff41fa09da86
+Description:  External IVR interface application.
+
+Package: asterisk-app-festival
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-festival
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 7387
+Filename: asterisk-app-festival_20.3.0-1_mips_24kc.ipk
+Size: 8221
+SHA256sum: cae29ede25394e98acb7452c5ee2de703a4c7c8930ebcfdf9625e61e01fe3d3a
+Description:  Simple Festival interface.
+
+Package: asterisk-app-flash
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-chan-dahdi
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-flash
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2537
+Filename: asterisk-app-flash_20.3.0-1_mips_24kc.ipk
+Size: 3300
+SHA256sum: 299b1c7513829b6fbf3466f16407c90357dddc0c7e8d9f70959f555634e984a7
+Description:  Flash channel application.
+
+Package: asterisk-app-followme
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-followme
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 15576
+Filename: asterisk-app-followme_20.3.0-1_mips_24kc.ipk
+Size: 16272
+SHA256sum: 92b42ef2b230bb81567dfed8745975e2a726d7190de54c08f776495f34c93e54
+Description:  Find-Me/Follow-Me application.
+
+Package: asterisk-app-getcpeid
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-adsi
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-getcpeid
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2727
+Filename: asterisk-app-getcpeid_20.3.0-1_mips_24kc.ipk
+Size: 3502
+SHA256sum: 9d125e9d85a4fb688df4a3ead077bc6ea0b509219bed54c304f85f2f6fe4f539
+Description:  Get ADSI CPE ID.
+
+Package: asterisk-app-if
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-if
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4359
+Filename: asterisk-app-if_20.3.0-1_mips_24kc.ipk
+Size: 5132
+SHA256sum: 7c956cc4a695ea40754d76ea06915f44ff8236e274ea50ba4000fb19a17537ed
+Description:  If Branch and Conditional Execution.
+
+Package: asterisk-app-ivrdemo
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-ivrdemo
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2544
+Filename: asterisk-app-ivrdemo_20.3.0-1_mips_24kc.ipk
+Size: 3296
+SHA256sum: 7a5142d9d109955574664d418f44b7524ac9a44b8fefd3f9635b36b0b3976c23
+Description:  IVR demo application.
+
+Package: asterisk-app-mf
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-mf
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5207
+Filename: asterisk-app-mf_20.3.0-1_mips_24kc.ipk
+Size: 5990
+SHA256sum: d7020dbba71229cbcd0fa756d3b3472bf02a06280c15c42b8f580ddcd3aa2edc
+Description:  Send MF digits Application.
+
+Package: asterisk-app-milliwatt
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-milliwatt
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2872
+Filename: asterisk-app-milliwatt_20.3.0-1_mips_24kc.ipk
+Size: 3641
+SHA256sum: fdc5d170bd1b07545772095bc9285b27f025cf9147209d9be0dfad70e74346d6
+Description:  Digital milliwatt test application.
+
+Package: asterisk-app-minivm
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-minivm
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 34330
+Filename: asterisk-app-minivm_20.3.0-1_mips_24kc.ipk
+Size: 35201
+SHA256sum: 06e5c3f1edb9d41439fbbd5c6f7c3bea13fa9923b762742f5d48d0b6b7b7d044
+Description:  A minimal voicemail e-mail system.
+
+Package: asterisk-app-mixmonitor
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-mixmonitor
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 16035
+Filename: asterisk-app-mixmonitor_20.3.0-1_mips_24kc.ipk
+Size: 16705
+SHA256sum: 9fafe90745fb64146f281f44df679bcbdc802ab77ddd4c591dbf7f9250fcddc1
+Description:  Mixed audio monitoring application.
+
+Package: asterisk-app-morsecode
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-morsecode
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3789
+Filename: asterisk-app-morsecode_20.3.0-1_mips_24kc.ipk
+Size: 4136
+SHA256sum: 6e384c0c4858a145965b254cba40df4d4757c4f6e7b8b4af3ee6d6fd7832f0ff
+Description:  Morse code.
+
+Package: asterisk-app-mp3
+Version: 20.3.0-1
+Depends: libc, asterisk, mpg123
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-mp3
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4842
+Filename: asterisk-app-mp3_20.3.0-1_mips_24kc.ipk
+Size: 5615
+SHA256sum: 6c555aabeba278df154c4c290efd98b90a0a48f36c6df55473b6f1a58b51eb9d
+Description:  Silly MP3 application.
+
+Package: asterisk-app-originate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-originate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4318
+Filename: asterisk-app-originate_20.3.0-1_mips_24kc.ipk
+Size: 5082
+SHA256sum: f751d616280df7d3c20cf88ae1b02ddd8522939e9baad73edd373f3f90858ce0
+Description:  Originate call.
+
+Package: asterisk-app-page
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-app-confbridge
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-page
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4517
+Filename: asterisk-app-page_20.3.0-1_mips_24kc.ipk
+Size: 5299
+SHA256sum: 7d2ece5f56cf4b7ebd8d9a8f0af855f54f6f24e3b9569041773029c72a60e4a0
+Description:  Page multiple phones.
+
+Package: asterisk-app-playtones
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-playtones
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2146
+Filename: asterisk-app-playtones_20.3.0-1_mips_24kc.ipk
+Size: 2932
+SHA256sum: 627ed1200572c7e8ec7dc6cc0585eff019afe16b771e2181f4f2a4b77b9121ba
+Description:  Playtones application.
+
+Package: asterisk-app-privacy
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-privacy
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3018
+Filename: asterisk-app-privacy_20.3.0-1_mips_24kc.ipk
+Size: 3798
+SHA256sum: 311b7d38663b02d98c03de64aa87d755a601e79214e16815cfd636aa0ba509b3
+Description:  Require phone number to be entered if no Caller ID sent.
+
+Package: asterisk-app-queue
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-queue
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 85162
+Filename: asterisk-app-queue_20.3.0-1_mips_24kc.ipk
+Size: 85634
+SHA256sum: 7665e215fbdf9be7919ed7a909cc0d032b5aec2c9dc82f493c8577e79c06e5cf
+Description:  True call queueing.
+
+Package: asterisk-app-read
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-read
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3838
+Filename: asterisk-app-read_20.3.0-1_mips_24kc.ipk
+Size: 4608
+SHA256sum: c140f3dd5b39131358abe003576be4f9150db1f51300761f8c61284889b3835d
+Description:  Read variable application.
+
+Package: asterisk-app-readexten
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-readexten
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3954
+Filename: asterisk-app-readexten_20.3.0-1_mips_24kc.ipk
+Size: 4734
+SHA256sum: bd428056b22cb67fc5159ab8a7dc6208f1339b79b6be0d7a885e9afc4c0f74ad
+Description:  Read and evaluate extension validity.
+
+Package: asterisk-app-record
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-record
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5093
+Filename: asterisk-app-record_20.3.0-1_mips_24kc.ipk
+Size: 5862
+SHA256sum: 097b46d5767a68cc67a4e7fd443498e8fab561b8391d3eb2f459e3d9773110d0
+Description:  Trivial record application.
+
+Package: asterisk-app-reload
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-reload
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2153
+Filename: asterisk-app-reload_20.3.0-1_mips_24kc.ipk
+Size: 2933
+SHA256sum: 3af147573a24df7a5951718b8f46ff777ea39514177889742974ff560f9454b9
+Description:  Reload module[s].
+
+Package: asterisk-app-saycounted
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-saycounted
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2590
+Filename: asterisk-app-saycounted_20.3.0-1_mips_24kc.ipk
+Size: 3366
+SHA256sum: fca1e963254f2495b5eed4ef13e02af26b4d431cc736287db77efef2b8b324d7
+Description:  Decline words according to channel language.
+
+Package: asterisk-app-sayunixtime
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-sayunixtime
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2636
+Filename: asterisk-app-sayunixtime_20.3.0-1_mips_24kc.ipk
+Size: 3398
+SHA256sum: 9500488cd6a001c5f696f16199e216d4737c2fee5dc837a11fe0f75f620b7a46
+Description:  Say time.
+
+Package: asterisk-app-senddtmf
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-senddtmf
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3584
+Filename: asterisk-app-senddtmf_20.3.0-1_mips_24kc.ipk
+Size: 4346
+SHA256sum: 899e85ad71d031fabd80d5613b90efdd589df9e5c0a86b81012dfab52bee4466
+Description:  Send DTMF digits application.
+
+Package: asterisk-app-sendtext
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-sendtext
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3339
+Filename: asterisk-app-sendtext_20.3.0-1_mips_24kc.ipk
+Size: 4090
+SHA256sum: 5b901f2784b625d61ed15a98ffc043cdbe4816111cd8778c1bf2c1b9cebc0ad7
+Description:  Send text applications.
+
+Package: asterisk-app-sf
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-sf
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4841
+Filename: asterisk-app-sf_20.3.0-1_mips_24kc.ipk
+Size: 5621
+SHA256sum: d5d30058ee4ba05d916950bef9d76156ab0c3a2d8cf60ac0cf9de77c1be7ba09
+Description:  SF Sender and Receiver Applications.
+
+Package: asterisk-app-signal
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-signal
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5908
+Filename: asterisk-app-signal_20.3.0-1_mips_24kc.ipk
+Size: 6677
+SHA256sum: a9ef6e49725c5b6591e7026282b3fc3ef8c56b6c0ae4e316ca6408fee1cf1ae3
+Description:  Channel Signaling Applications.
+
+Package: asterisk-app-skel
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-skel
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 7513
+Filename: asterisk-app-skel_20.3.0-1_mips_24kc.ipk
+Size: 8350
+SHA256sum: 5011fca468f0ab22b9b7b9602fc87aebe4a96d5b980eca6f86e50248b9d5faa1
+Description:  Skeleton application.
+
+Package: asterisk-app-sms
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-sms
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 15050
+Filename: asterisk-app-sms_20.3.0-1_mips_24kc.ipk
+Size: 15794
+SHA256sum: d491e5b50fbba696f9c57905c9d60e3034f36e230c59b5658e91c754890702f4
+Description:  SMS/PSTN handler.
+
+Package: asterisk-app-softhangup
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-softhangup
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2847
+Filename: asterisk-app-softhangup_20.3.0-1_mips_24kc.ipk
+Size: 3622
+SHA256sum: 459ce3c345cc0719ff527e5f419a020fd355fccdeb941de69746ff65ef33e777
+Description:  Hangs up the requested channel.
+
+Package: asterisk-app-speech
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-speech
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-speech
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6674
+Filename: asterisk-app-speech_20.3.0-1_mips_24kc.ipk
+Size: 7479
+SHA256sum: 1725a7b179835e400d94190ae8d6f2fae9a7e999f6c6e61e35da0f6a96b7d97c
+Description:  Dialplan speech applications.
+
+Package: asterisk-app-stack
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-agi
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-stack
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 11858
+Filename: asterisk-app-stack_20.3.0-1_mips_24kc.ipk
+Size: 12652
+SHA256sum: 965f0931e5b8167297d0bbf54527969f205178b3bb43fcac06099326eece739a
+Description:  Dialplan subroutines.
+
+Package: asterisk-app-stasis
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-stasis
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2291
+Filename: asterisk-app-stasis_20.3.0-1_mips_24kc.ipk
+Size: 3092
+SHA256sum: cf31bfe2319c20ccbb5fb3875a85e7f45e1b0bb3e49390859e0fa87df325073a
+Description:  Stasis dialplan application.
+
+Package: asterisk-app-statsd
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-statsd
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-statsd
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3714
+Filename: asterisk-app-statsd_20.3.0-1_mips_24kc.ipk
+Size: 4482
+SHA256sum: 476e3cb61f4613036e4352368375bfc67dc7d41186a881afea26863ced06cb33
+Description:  StatsD dialplan application.
+
+Package: asterisk-app-stream-echo
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-stream-echo
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3682
+Filename: asterisk-app-stream-echo_20.3.0-1_mips_24kc.ipk
+Size: 4441
+SHA256sum: 29634edb9df6f603ed77b422de1981e43e1d9b6623df0bc26bdd52a8ca5641e3
+Description:  Stream echo application.
+
+Package: asterisk-app-system
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-system
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2804
+Filename: asterisk-app-system_20.3.0-1_mips_24kc.ipk
+Size: 3569
+SHA256sum: 7e600717799aa982a90f5c705ccf591ecd33456136ada2c46f07838c9ccf51b0
+Description:  Generic system application.
+
+Package: asterisk-app-talkdetect
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-talkdetect
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4404
+Filename: asterisk-app-talkdetect_20.3.0-1_mips_24kc.ipk
+Size: 5169
+SHA256sum: 89c5d4e7360bb6e6289e706981b236657adc9028ef8f8ad8fa6cd68d3fef0744
+Description:  Playback with talk detection.
+
+Package: asterisk-app-test
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-test
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6260
+Filename: asterisk-app-test_20.3.0-1_mips_24kc.ipk
+Size: 7064
+SHA256sum: b4c14adb6e51d39a64d8d4da7e4a957f7aacebea507b94e9968dcb6fc8087598
+Description:  Interface test application.
+
+Package: asterisk-app-transfer
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-transfer
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2705
+Filename: asterisk-app-transfer_20.3.0-1_mips_24kc.ipk
+Size: 3469
+SHA256sum: 94253652df931a5a6a0b8f707bcf638dbbbcc5d6a3bc7e35d3c333446635c766
+Description:  Transfers a caller to another extension.
+
+Package: asterisk-app-userevent
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-userevent
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2680
+Filename: asterisk-app-userevent_20.3.0-1_mips_24kc.ipk
+Size: 3445
+SHA256sum: bc5c7f9a7b7c2649ae95461a99c908376b746bab953ff4ac1a85354019f21778
+Description:  Custom user event application.
+
+Package: asterisk-app-verbose
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-verbose
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2838
+Filename: asterisk-app-verbose_20.3.0-1_mips_24kc.ipk
+Size: 3595
+SHA256sum: e9e3423a91398f2f8d9390c27ce169aec1f30b901b33633dc1343807b72b9318
+Description:  Send verbose output.
+
+Package: asterisk-app-voicemail-imap
+Version: 20.3.0-1
+Depends: libc, asterisk, uw-imap
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-voicemail-imap
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 93248
+Filename: asterisk-app-voicemail-imap_20.3.0-1_mips_24kc.ipk
+Size: 93936
+SHA256sum: 4b57ae0773552722bb97acfb5b2eb5acdf9dce5c41beba99944c84e3aef49db3
+Description:  Voicemail module.
+
+Package: asterisk-app-voicemail-odbc
+Version: 20.3.0-1
+Depends: libc, asterisk, unixodbc
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-voicemail-odbc
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 82518
+Filename: asterisk-app-voicemail-odbc_20.3.0-1_mips_24kc.ipk
+Size: 83067
+SHA256sum: 98c6ce9007cf683e359c40eeb0dd58196b349c3a5e142d8ee4ae3adc694b64d4
+Description:  Voicemail module.
+
+Package: asterisk-app-voicemail
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-voicemail
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 629586
+Filename: asterisk-app-voicemail_20.3.0-1_mips_24kc.ipk
+Size: 630453
+SHA256sum: 4130f338f9e74ea369ce45ae9ac77f63a81c998f502ba7a8897b547996ecd65b
+Description:  Voicemail module.
+
+Package: asterisk-app-waitforcond
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-waitforcond
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3468
+Filename: asterisk-app-waitforcond_20.3.0-1_mips_24kc.ipk
+Size: 4237
+SHA256sum: 9edcd904d022fe7247cf7931d08566240349872f95b94393fbd82bb2c20fd884
+Description:  Wait until condition is true.
+
+Package: asterisk-app-waitforring
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-waitforring
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2603
+Filename: asterisk-app-waitforring_20.3.0-1_mips_24kc.ipk
+Size: 3375
+SHA256sum: d417ff10270de8dd2dd34bd4fde962560f1ec6e80814d881cb0ad89067b9a606
+Description:  Waits until first ring after time.
+
+Package: asterisk-app-waitforsilence
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-waitforsilence
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4063
+Filename: asterisk-app-waitforsilence_20.3.0-1_mips_24kc.ipk
+Size: 4825
+SHA256sum: 5d211855c4b64bf3ae77f5a781b15942446111d2e8a341b658acdb9a6a5e47c9
+Description:  Wait for silence/noise.
+
+Package: asterisk-app-waituntil
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-waituntil
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2338
+Filename: asterisk-app-waituntil_20.3.0-1_mips_24kc.ipk
+Size: 3138
+SHA256sum: a7670f39a72c2fafb8a37cf43edca13698b3c509807f5afb1cc5f8552a6900be
+Description:  Wait until specified time.
+
+Package: asterisk-app-while
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-while
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4270
+Filename: asterisk-app-while_20.3.0-1_mips_24kc.ipk
+Size: 5049
+SHA256sum: 03d7897777a75eeaed14a55ae21dfa87549e84a92f06e9a8a0eafe58aea5cb4b
+Description:  While loops and conditional execution.
+
+Package: asterisk-app-zapateller
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-app-zapateller
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2572
+Filename: asterisk-app-zapateller_20.3.0-1_mips_24kc.ipk
+Size: 3346
+SHA256sum: b177b0c6ccc255b902657fecda0fc2817a3b9cfe3acf884d02d7c35d395aec09
+Description:  Block telemarketers with special information tone.
+
+Package: asterisk-bridge-builtin-features
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-bridge-builtin-features
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6688
+Filename: asterisk-bridge-builtin-features_20.3.0-1_mips_24kc.ipk
+Size: 7483
+SHA256sum: d09b72ce021e273d1265cc711e76c614e4742e4ca84474d69c44f06aa2335f33
+Description:  Built in bridging features.
+
+Package: asterisk-bridge-builtin-interval-features
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-bridge-builtin-interval-features
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3811
+Filename: asterisk-bridge-builtin-interval-features_20.3.0-1_mips_24kc.ipk
+Size: 4583
+SHA256sum: 657b39f312e95784b0bf224455597bef8ba75f956f770ef0f9a86936a3ffad4e
+Description:  Built in bridging interval features.
+
+Package: asterisk-bridge-holding
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-bridge-holding
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3888
+Filename: asterisk-bridge-holding_20.3.0-1_mips_24kc.ipk
+Size: 4649
+SHA256sum: 45e71f87b75dd42c39316eb03eec49df7306a024ec8df3729b9a43a810d67701
+Description:  Holding bridge module.
+
+Package: asterisk-bridge-native-rtp
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-bridge-native-rtp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9189
+Filename: asterisk-bridge-native-rtp_20.3.0-1_mips_24kc.ipk
+Size: 9980
+SHA256sum: 5e034ffbcc2ffaecb206d8f6869aabe69ce7ae873704864afc20e14e79c5d46f
+Description:  Native RTP bridging module.
+
+Package: asterisk-bridge-simple
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-bridge-simple
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3295
+Filename: asterisk-bridge-simple_20.3.0-1_mips_24kc.ipk
+Size: 4059
+SHA256sum: f0f49de2d66f9a2cb3e2cc4f652dd4b9158368d898e9f929c4c058e73e7549e2
+Description:  Simple two channel bridging module.
+
+Package: asterisk-bridge-softmix
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-bridge-softmix
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 20898
+Filename: asterisk-bridge-softmix_20.3.0-1_mips_24kc.ipk
+Size: 21640
+SHA256sum: 3e6b9665697743210923bba7e3d401f80ef025f225b00b189bc9f14138d342a6
+Description:  Multi-party software based channel mixing.
+
+Package: asterisk-cdr-csv
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-cdr-csv
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4269
+Filename: asterisk-cdr-csv_20.3.0-1_mips_24kc.ipk
+Size: 5034
+SHA256sum: ed0ea33c16c43b18edf368ef00eb99b37822055f01b3e42192fe2d78af1d80b9
+Description:  Comma Separated Values CDR backend.
+
+Package: asterisk-cdr-sqlite3
+Version: 20.3.0-1
+Depends: libc, asterisk, libsqlite3-0
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-cdr-sqlite3
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5554
+Filename: asterisk-cdr-sqlite3_20.3.0-1_mips_24kc.ipk
+Size: 6346
+SHA256sum: 7965a3072b47f3e5c5c80e1c5c92450bd0f07da24e81b72ab9f9df417d7646b2
+Description:  SQLite3 CDR backend.
+
+Package: asterisk-cdr
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-cdr
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 19061
+Filename: asterisk-cdr_20.3.0-1_mips_24kc.ipk
+Size: 19893
+SHA256sum: 41f0ee6e805dc0c2b5874e0c658e8b8a6154d156122e140ae85d41132de8934b
+Description:  Call Detail Records.
+
+Package: asterisk-cel-custom
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-cel-custom
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4906
+Filename: asterisk-cel-custom_20.3.0-1_mips_24kc.ipk
+Size: 5730
+SHA256sum: e8479769a9a3acff013f607997b119f75734d56f649d6849a47fbd48012429df
+Description:  Customizable Comma Separated Values CEL backend.
+
+Package: asterisk-cel-manager
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-cel-manager
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3182
+Filename: asterisk-cel-manager_20.3.0-1_mips_24kc.ipk
+Size: 3962
+SHA256sum: ece7247348ec0bfd869370578583a49f33a2116ce58ea67a91932ac61f854e71
+Description:  Asterisk Manager Interface CEL backend.
+
+Package: asterisk-cel-sqlite3-custom
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-cel-sqlite3-custom
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6050
+Filename: asterisk-cel-sqlite3-custom_20.3.0-1_mips_24kc.ipk
+Size: 6872
+SHA256sum: 64b7dbfd13490685f8c6a66c733a261e2a063f69f8c7d111e808de23cb28b0bf
+Description:  SQLite3 custom CEL module.
+
+Package: asterisk-chan-alsa
+Version: 20.3.0-1
+Depends: libc, asterisk, alsa-lib
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-alsa
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 12476
+Filename: asterisk-chan-alsa_20.3.0-1_mips_24kc.ipk
+Size: 13290
+SHA256sum: 34046db4ed51dff67253a5568a906a6f50ea4d3ff5213df08a4e525d3288c383
+Description:  ALSA console channel driver.
+
+Package: asterisk-chan-audiosocket
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-audiosocket
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-audiosocket
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4156
+Filename: asterisk-chan-audiosocket_20.3.0-1_mips_24kc.ipk
+Size: 4932
+SHA256sum: 39718d220e36056f81bea9ebda32a4339df77783c6933131dfdef50310f277d0
+Description:  Audiosocket channel.
+
+Package: asterisk-chan-bridge-media
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-bridge-media
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3084
+Filename: asterisk-chan-bridge-media_20.3.0-1_mips_24kc.ipk
+Size: 3860
+SHA256sum: 96d34c50ad1ab0476f92e29ba9d51aff57fc10503df01d820c152ae881a8beb0
+Description:  Bridge media channel driver.
+
+Package: asterisk-chan-console
+Version: 20.3.0-1
+Depends: libc, asterisk, portaudio
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-console
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 16378
+Filename: asterisk-chan-console_20.3.0-1_mips_24kc.ipk
+Size: 17159
+SHA256sum: f4ddaf1f00375be2c9ca6fc1e4b3e56908709566d388a07b8f6b9693b377b79a
+Description:  Console channel driver.
+
+Package: asterisk-chan-dahdi
+Version: 20.3.0-1
+Depends: libc, asterisk, dahdi-tools-libtonezone, kmod-dahdi, libpri
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-dahdi
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 199477
+Filename: asterisk-chan-dahdi_20.3.0-1_mips_24kc.ipk
+Size: 198857
+SHA256sum: a185f63735cc0705c1fa84d132dcad78e0fef8fddbc6cf1abfed9e07a014bcaa
+Description:  DAHDI telephony.
+
+Package: asterisk-chan-dongle
+Version: 2021-10-06-3d046f7d-1
+Depends: libc, asterisk, libsqlite3-0
+Source: feeds/telephony/net/asterisk-chan-dongle
+SourceName: asterisk-chan-dongle
+License: GPL-2.0
+LicenseFiles: COPYRIGHT.txt LICENSE.txt
+Section: net
+SourceDateEpoch: 1641302468
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 80543
+Filename: asterisk-chan-dongle_2021-10-06-3d046f7d-1_mips_24kc.ipk
+Size: 80990
+SHA256sum: aa9510a159eff5b24466570a89c26fec5325e3cccf893106cd294cb20478f6c6
+Description:  Asterisk channel driver for Huawei UMTS 3G dongle.
+
+Package: asterisk-chan-iax2
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-iax2
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 144493
+Filename: asterisk-chan-iax2_20.3.0-1_mips_24kc.ipk
+Size: 144405
+SHA256sum: 2ea47588dee94ef2575576568c44da41b26dc4870235dcd918f1ca681a836237
+Description:  Inter Asterisk eXchange.
+
+Package: asterisk-chan-mgcp
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-mgcp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 45030
+Filename: asterisk-chan-mgcp_20.3.0-1_mips_24kc.ipk
+Size: 45677
+SHA256sum: 69b310b52a53f6ca2766d55526a4e4507dd96b5e4706bfd0040684fa1f933c00
+Description:  Media Gateway Control Protocol.
+
+Package: asterisk-chan-mobile
+Version: 20.3.0-1
+Depends: libc, asterisk, bluez-libs
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-mobile
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 31992
+Filename: asterisk-chan-mobile_20.3.0-1_mips_24kc.ipk
+Size: 32757
+SHA256sum: 91166fb08c4c90c60e8b31b6f85d4350652b3bbb92925d2c21acb4a679449bdb
+Description:  Bluetooth mobile device channel driver.
+
+Package: asterisk-chan-motif
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-xmpp
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-motif
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 24259
+Filename: asterisk-chan-motif_20.3.0-1_mips_24kc.ipk
+Size: 24965
+SHA256sum: 2527261959d27f4eaceff3aebaf5cb6ec82b2d4ebc99b98c1fdb40385e4343d4
+Description:  Motif Jingle channel driver.
+
+Package: asterisk-chan-ooh323
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-ooh323
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 283793
+Filename: asterisk-chan-ooh323_20.3.0-1_mips_24kc.ipk
+Size: 284290
+SHA256sum: ade364f033447ce145f06f02bff94c673e56ad1905289b9beafc156330ad8657
+Description:  Objective Systems H.323 channel.
+
+Package: asterisk-chan-rtp
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-rtp-multicast
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-rtp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5358
+Filename: asterisk-chan-rtp_20.3.0-1_mips_24kc.ipk
+Size: 6104
+SHA256sum: 60fe59afb80bb8740d38d93aaf7b012944fbdfda91b6d8028c7590e48c3b4a24
+Description:  RTP media channel.
+
+Package: asterisk-chan-sccp
+Version: 2020-12-19-968caa45-2
+Depends: libc, asterisk, libltdl7, asterisk-bridge-holding, asterisk-bridge-native-rtp, asterisk-bridge-simple, asterisk-bridge-softmix, asterisk-res-stasis-device-state
+Conflicts: asterisk-chan-skinny
+Source: feeds/telephony/net/asterisk-chan-sccp
+SourceName: asterisk-chan-sccp
+License: GPL-1.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1608457065
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 414488
+Filename: asterisk-chan-sccp_2020-12-19-968caa45-2_mips_24kc.ipk
+Size: 413085
+SHA256sum: cdba36de246960fe5e858f3e1871bef1de7a1af7915b12702ae930e68be41f7f
+Description:  Replacement for the SCCP channel driver (chan_skinny) in Asterisk.
+ Extended features include shared lines, presence / BLF, customizable
+ feature buttons and custom device state.
+
+Package: asterisk-chan-sip
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-app-confbridge
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-sip
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 315899
+Filename: asterisk-chan-sip_20.3.0-1_mips_24kc.ipk
+Size: 314959
+SHA256sum: ae78be9eaf6b5490de9597d97adaa89912105ae2f4b4a62364f7e57f9d719a12
+Description:  Session Initiation Protocol.
+
+Package: asterisk-chan-skinny
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-skinny
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 53168
+Filename: asterisk-chan-skinny_20.3.0-1_mips_24kc.ipk
+Size: 53926
+SHA256sum: 7dc7e70dab6052a26fa001f3608fb440573ff910c329d2f4ac5f601e8be38496
+Description:  Skinny Client Control Protocol.
+
+Package: asterisk-chan-unistim
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-chan-unistim
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 55709
+Filename: asterisk-chan-unistim_20.3.0-1_mips_24kc.ipk
+Size: 56477
+SHA256sum: 7c7c3b1bc4fddad7a11bc320533dbd4cbb34e9478add6f0ace3b67c8314c3a36
+Description:  UNISTIM protocol.
+
+Package: asterisk-codec-a-mu
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-a-mu
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2220
+Filename: asterisk-codec-a-mu_20.3.0-1_mips_24kc.ipk
+Size: 3021
+SHA256sum: 35229f40d490a9b32b6d7bc91f9d8f4496c8480d1de1f38205f2a6b0e47c265b
+Description:  Alaw and ulaw direct coder/decoder.
+
+Package: asterisk-codec-adpcm
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-adpcm
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3003
+Filename: asterisk-codec-adpcm_20.3.0-1_mips_24kc.ipk
+Size: 3780
+SHA256sum: f749362b6971327c17c2df7f54f9521f6e5b91ef6f0e4bd6ec91443df5f301d4
+Description:  Adaptive Differential PCM coder/decoder.
+
+Package: asterisk-codec-alaw
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-alaw
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2344
+Filename: asterisk-codec-alaw_20.3.0-1_mips_24kc.ipk
+Size: 3137
+SHA256sum: 737bcd8460c96aaf2ff9613ba96cdc7e658c6917978fff25bde8942defc901b3
+Description:  Alaw coder/decoder.
+
+Package: asterisk-codec-dahdi
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-chan-dahdi
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-dahdi
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6084
+Filename: asterisk-codec-dahdi_20.3.0-1_mips_24kc.ipk
+Size: 6878
+SHA256sum: d3a18e293a8e18831cff49fb993171118fd89b4878c397832979c39d142a69f6
+Description:  Generic DAHDI transcoder codec translator.
+
+Package: asterisk-codec-g722
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-g722
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5599
+Filename: asterisk-codec-g722_20.3.0-1_mips_24kc.ipk
+Size: 6383
+SHA256sum: 92b7ba24eb2def3e459243405d14eda4aebc736bc03d96e9b0f83985d9e3ccaa
+Description:  ITU G.722-64kbps G722 transcoder.
+
+Package: asterisk-codec-g726
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-g726
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4152
+Filename: asterisk-codec-g726_20.3.0-1_mips_24kc.ipk
+Size: 4933
+SHA256sum: 242ae0ffb88450358fa9b41bec6d7efefc2c4d4c09e722c8401ddfe7e4a5f058
+Description:  ITU G.726-32kbps G726 transcoder.
+
+Package: asterisk-codec-g729
+Version: 1.4.3-1
+Depends: libc, asterisk, bcg729
+Source: feeds/telephony/net/asterisk-g72x
+SourceName: asterisk-codec-g729
+License: GPL-3.0
+LicenseFiles: README.md
+Section: net
+SourceDateEpoch: 1604228205
+Maintainer: Alex Samorukov <samm@os2.kiev.ua>
+Architecture: mips_24kc
+Installed-Size: 3958
+Filename: asterisk-codec-g729_1.4.3-1_mips_24kc.ipk
+Size: 4739
+SHA256sum: 23430d15f232d8dfe2324bf685483399e6b7a6ac1583c21bfe24d970d3f12b8d
+Description:  Asterisk G.729 codec based on bcg729 implementation.
+
+Package: asterisk-codec-gsm
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-gsm
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 17239
+Filename: asterisk-codec-gsm_20.3.0-1_mips_24kc.ipk
+Size: 18018
+SHA256sum: 872bbbf5a50ac81753f3696813d234814f92265ff28553c8641d031ac0276bdf
+Description:  GSM coder/decoder.
+
+Package: asterisk-codec-ilbc
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-ilbc
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 30397
+Filename: asterisk-codec-ilbc_20.3.0-1_mips_24kc.ipk
+Size: 31157
+SHA256sum: bc6f0b77538b9bf36d16306ab2fcb3959ffd35dde5d6f9cc9e2aa1832e7b3282
+Description:  iLBC coder/decoder.
+
+Package: asterisk-codec-lpc10
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-lpc10
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 19186
+Filename: asterisk-codec-lpc10_20.3.0-1_mips_24kc.ipk
+Size: 20005
+SHA256sum: ab26393a8441051193a5e929dd52cb90e9994c916ff0dc0d7e4196d9c8e56b76
+Description:  LPC10 2.4kbps coder/decoder.
+
+Package: asterisk-codec-opus
+Version: 2021-11-01-20522fbc-5
+Depends: libc, asterisk, libopus
+Source: feeds/telephony/net/asterisk-opus
+SourceName: asterisk-codec-opus
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1604228164
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5645
+Filename: asterisk-codec-opus_2021-11-01-20522fbc-5_mips_24kc.ipk
+Size: 6766
+SHA256sum: e012430854168d42cef2951a1c211c88cf7760fdc28255fca850be831c318d13
+Description:  Opus is the default audio codec in WebRTC. WebRTC is available in
+ Asterisk via SIP over WebSockets (WSS). Nevertheless, Opus can be used
+ for other transports (UDP, TCP, TLS) as well. Opus supersedes previous
+ codecs like CELT and SiLK. Furthermore, in favor of Opus, other
+ open-source audio codecs are no longer developed, like Speex, iSAC,
+ iLBC, and Siren. If you use your Asterisk as a back-to-back user agent
+ (B2BUA) and you transcode between various audio codecs, one should
+ enable Opus for future compatibility.
+ 
+ Opus is not only supported for pass-through but can be transcoded as
+ well.
+
+Package: asterisk-codec-resample
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-resample
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9183
+Filename: asterisk-codec-resample_20.3.0-1_mips_24kc.ipk
+Size: 9955
+SHA256sum: 5aa29e7db84b01c83f20f6850a0b84fb7406722ef7e469e279361b32ed5f9c92
+Description:  SLIN resampling codec.
+
+Package: asterisk-codec-ulaw
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-codec-ulaw
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2352
+Filename: asterisk-codec-ulaw_20.3.0-1_mips_24kc.ipk
+Size: 3147
+SHA256sum: 93dde815a7dcc128f962c5b8271c82eede01ac579885ecb470e1f2315dd26e0d
+Description:  Ulaw coder/decoder.
+
+Package: asterisk-curl
+Version: 20.3.0-1
+Depends: libc, asterisk, libcurl4
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-curl
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 13726
+Filename: asterisk-curl_20.3.0-1_mips_24kc.ipk
+Size: 14493
+SHA256sum: a6a7536e319ee6249720aee49da987d02e75df9142ff7dc475c89e1c0f9706ae
+Description:  cURL
+
+Package: asterisk-format-g719
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-g719
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2967
+Filename: asterisk-format-g719_20.3.0-1_mips_24kc.ipk
+Size: 3731
+SHA256sum: 60940760fbc9f1d6d01177ec2a0cc50ca915dffbc79a8a33f2965bb118d4955e
+Description:  ITU G.719.
+
+Package: asterisk-format-g723
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-g723
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2766
+Filename: asterisk-format-g723_20.3.0-1_mips_24kc.ipk
+Size: 3536
+SHA256sum: 8771d083d544fcd7c7b5fee33329c398e07a92f2685a659f27c8799161ad9209
+Description:  G.723.1 simple timestamp file format.
+
+Package: asterisk-format-g726
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-g726
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3262
+Filename: asterisk-format-g726_20.3.0-1_mips_24kc.ipk
+Size: 4029
+SHA256sum: 0635e2a20720f57bf693b07850c5b6201373da94ce7eda168722e5ac8430df69
+Description:  Raw G.726 data.
+
+Package: asterisk-format-g729
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-g729
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2814
+Filename: asterisk-format-g729_20.3.0-1_mips_24kc.ipk
+Size: 3574
+SHA256sum: 6372dfcf447b84221eab07237dbcc4cecf8de5bac345074662e128bfe4bb024b
+Description:  Raw G.729 data.
+
+Package: asterisk-format-gsm
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-gsm
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5302
+Filename: asterisk-format-gsm_20.3.0-1_mips_24kc.ipk
+Size: 6074
+SHA256sum: abd20b5fef66c70fda86deac47d58e1c68275dc1d2e82e187c692e773a8600b4
+Description:  Raw GSM data.
+
+Package: asterisk-format-h263
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-h263
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2862
+Filename: asterisk-format-h263_20.3.0-1_mips_24kc.ipk
+Size: 3631
+SHA256sum: a8d211dc9a06e999a1394f3c836aeed59174359a620ef9b81f22f979fb834bb4
+Description:  Raw H.263 data.
+
+Package: asterisk-format-h264
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-h264
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2945
+Filename: asterisk-format-h264_20.3.0-1_mips_24kc.ipk
+Size: 3703
+SHA256sum: dfe130904f0becd844b7e2af9de1b50478272dccd16afb2979a5c52587b2b96c
+Description:  Raw H.264 data.
+
+Package: asterisk-format-ilbc
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-ilbc
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2808
+Filename: asterisk-format-ilbc_20.3.0-1_mips_24kc.ipk
+Size: 3573
+SHA256sum: 13cbf01bc5d288c1964849f024c90e17628d79c002e347fd57677e106d1c738f
+Description:  Raw iLBC data.
+
+Package: asterisk-format-ogg-vorbis
+Version: 20.3.0-1
+Depends: libc, asterisk, libvorbis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-ogg-vorbis
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4465
+Filename: asterisk-format-ogg-vorbis_20.3.0-1_mips_24kc.ipk
+Size: 5239
+SHA256sum: 0533595fbefa9ce50e70ad2c0dc02374fd07443140c2a8a8dc43d4a42f8de031
+Description:  OGG/Vorbis audio.
+
+Package: asterisk-format-pcm
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-pcm
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4301
+Filename: asterisk-format-pcm_20.3.0-1_mips_24kc.ipk
+Size: 5079
+SHA256sum: 57f7ca6ca36d960de8a443ee45e22211a7befda2e9761d6c8de971a8675317e9
+Description:  Raw/Sun ulaw/alaw 8KHz and G.722 16Khz.
+
+Package: asterisk-format-siren14
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-siren14
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2998
+Filename: asterisk-format-siren14_20.3.0-1_mips_24kc.ipk
+Size: 3776
+SHA256sum: 8b382e9410f11b2bfeb76db2acd8e201b2ccb0c1fc48a13845a64a10ead34814
+Description:  ITU G.722.1 Annex C.
+
+Package: asterisk-format-siren7
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-siren7
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2795
+Filename: asterisk-format-siren7_20.3.0-1_mips_24kc.ipk
+Size: 3568
+SHA256sum: 5e418bf48b495268889654db70534539125adcb0438d0c23d2bc76c23347943f
+Description:  ITU G.722.1.
+
+Package: asterisk-format-sln
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-sln
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3294
+Filename: asterisk-format-sln_20.3.0-1_mips_24kc.ipk
+Size: 4071
+SHA256sum: 0dcaefade7a534464775438da79dcdf854b763090e13b8ed0c34b3545041aeb3
+Description:  Raw signed linear audio support 8khz-192khz.
+
+Package: asterisk-format-vox
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-vox
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2639
+Filename: asterisk-format-vox_20.3.0-1_mips_24kc.ipk
+Size: 3399
+SHA256sum: bdc6b96d408beb0b8cc28118bd631e16b01ff8b8edd2409e5d124b15a7fcafc9
+Description:  Dialogic VOX file format.
+
+Package: asterisk-format-wav-gsm
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-wav-gsm
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8725
+Filename: asterisk-format-wav-gsm_20.3.0-1_mips_24kc.ipk
+Size: 9503
+SHA256sum: c9f8d540bb079ce0c983b545e57c707aa0838e9024920e9e1cf5472f1316e834
+Description:  Microsoft WAV format.
+
+Package: asterisk-format-wav
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-format-wav
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4913
+Filename: asterisk-format-wav_20.3.0-1_mips_24kc.ipk
+Size: 5692
+SHA256sum: 6fd00d50059bf96ce714128c9daa36be450bdfd93e26de1c0fedb5984614e2b1
+Description:  Microsoft WAV/WAV16 format.
+
+Package: asterisk-func-aes
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-aes
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3540
+Filename: asterisk-func-aes_20.3.0-1_mips_24kc.ipk
+Size: 4292
+SHA256sum: b50846a0f294e56653a361f603fe6d7ad5d49f25100dcb7dc580c45d535adaa5
+Description:  AES dialplan functions.
+
+Package: asterisk-func-base64
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-base64
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2409
+Filename: asterisk-func-base64_20.3.0-1_mips_24kc.ipk
+Size: 3210
+SHA256sum: c1919dffccb008f25d33d7bd551349e5a0bb993217ee23713b888ae0464b9095
+Description:  Base64 encode/decode dialplan functions.
+
+Package: asterisk-func-blacklist
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-blacklist
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2306
+Filename: asterisk-func-blacklist_20.3.0-1_mips_24kc.ipk
+Size: 3116
+SHA256sum: 692d0270308bdea3d6aceda8a4db5b43a065be26051d57b8878af8d40360eaa1
+Description:  Look up Caller ID name/number from blacklist database.
+
+Package: asterisk-func-callcompletion
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-callcompletion
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2136
+Filename: asterisk-func-callcompletion_20.3.0-1_mips_24kc.ipk
+Size: 2931
+SHA256sum: cc54ac88270cb11d55df0f85930fc54a2a2c4b2a9d95070d592b8b2fda113611
+Description:  Call control configuration function.
+
+Package: asterisk-func-channel
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-channel
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8646
+Filename: asterisk-func-channel_20.3.0-1_mips_24kc.ipk
+Size: 9443
+SHA256sum: 78a4b6ec9f20ebf56f7794a2f4fcab4dfd593d959d393e95ee6d156746956908
+Description:  Channel information dialplan functions.
+
+Package: asterisk-func-config
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-config
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3421
+Filename: asterisk-func-config_20.3.0-1_mips_24kc.ipk
+Size: 4199
+SHA256sum: 82e192ded4bc492ae5a2e725792895673ec5fae9dcdeb7dae6b87e7c53c0804e
+Description:  Asterisk configuration file variable access.
+
+Package: asterisk-func-cut
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-cut
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4031
+Filename: asterisk-func-cut_20.3.0-1_mips_24kc.ipk
+Size: 4796
+SHA256sum: 278f9d1dbec32e4b94317768b32220ef39ca654ccd4354d7f624b9cf833d6c50
+Description:  Cut out information from a string.
+
+Package: asterisk-func-db
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-db
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4980
+Filename: asterisk-func-db_20.3.0-1_mips_24kc.ipk
+Size: 5724
+SHA256sum: e61b717e50ea18deb9ca903725f369603454bc66f3a4b2405c52480854527e1d
+Description:  Database related dialplan functions.
+
+Package: asterisk-func-devstate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-devstate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3875
+Filename: asterisk-func-devstate_20.3.0-1_mips_24kc.ipk
+Size: 4665
+SHA256sum: a61979dd572bc006e1ed456a97f138fa648dd006ba295a5bfe30d02cf5051697
+Description:  Gets or sets a device state in the dialplan.
+
+Package: asterisk-func-dialgroup
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-dialgroup
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4208
+Filename: asterisk-func-dialgroup_20.3.0-1_mips_24kc.ipk
+Size: 4965
+SHA256sum: 37e2f5bb5dc04cc14d34d0b053cbfe025cadf6b320b6e13aa81173458fd6e75e
+Description:  Dialgroup dialplan function.
+
+Package: asterisk-func-dialplan
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-dialplan
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3063
+Filename: asterisk-func-dialplan_20.3.0-1_mips_24kc.ipk
+Size: 3847
+SHA256sum: c641522342b35e3a92b2dd99e7854d4c8657e2700f40e575c3cc04c6e14c4820
+Description:  Dialplan context/extension/priority checking functions.
+
+Package: asterisk-func-enum
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-enum
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5017
+Filename: asterisk-func-enum_20.3.0-1_mips_24kc.ipk
+Size: 5831
+SHA256sum: 415f48540ebccb81b79d6d0de4f52a3fc18f4c9220d4f61621db0e9988be23c9
+Description:  ENUM related dialplan functions.
+
+Package: asterisk-func-env
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-env
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 10425
+Filename: asterisk-func-env_20.3.0-1_mips_24kc.ipk
+Size: 11230
+SHA256sum: 54e5afb000fe99d27d1d3fedfe4ab689d5ec5996fbfb37e3b9241af0bd69c337
+Description:  Environment/filesystem dialplan functions.
+
+Package: asterisk-func-evalexten
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-evalexten
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2688
+Filename: asterisk-func-evalexten_20.3.0-1_mips_24kc.ipk
+Size: 3452
+SHA256sum: a5ea7506ba9d94def66aaae3678564821ccace79be67d7c41f995a72eaf8a183
+Description:  Extension evaluation functions.
+
+Package: asterisk-func-export
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-export
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2101
+Filename: asterisk-func-export_20.3.0-1_mips_24kc.ipk
+Size: 2906
+SHA256sum: 85455f2962e80edfaa0559bbf1c60e0d7d1619cf18410b7bea8110cba06a4c16
+Description:  Set variables and functions on other channels.
+
+Package: asterisk-func-extstate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-extstate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2154
+Filename: asterisk-func-extstate_20.3.0-1_mips_24kc.ipk
+Size: 2958
+SHA256sum: c8ec5bec9aa8037fbaa37a50ccc43a9843fcc64b1fe0b6d3e0d329ef2a87eb5e
+Description:  Gets the state of an extension in the dialplan.
+
+Package: asterisk-func-frame-drop
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-frame-drop
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3256
+Filename: asterisk-func-frame-drop_20.3.0-1_mips_24kc.ipk
+Size: 4020
+SHA256sum: 123838be72dc79325f49f8df7cf7817dd679e276e087044c18b1fffdf9d3edce
+Description:  Function to drop frames on a channel.
+
+Package: asterisk-func-frame-trace
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-frame-trace
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4838
+Filename: asterisk-func-frame-trace_20.3.0-1_mips_24kc.ipk
+Size: 5624
+SHA256sum: f51f829f53af892225eb0a5c804a68df3486f5371bfc31c9bb0e010d4918f819
+Description:  Frame trace for internal ast_frame debugging.
+
+Package: asterisk-func-global
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-global
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3868
+Filename: asterisk-func-global_20.3.0-1_mips_24kc.ipk
+Size: 4630
+SHA256sum: 6c96ed2a252c1aa1206942e71ff0fca99d1668b32061743f87032914c1e4ce46
+Description:  Variable dialplan functions.
+
+Package: asterisk-func-groupcount
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-groupcount
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3372
+Filename: asterisk-func-groupcount_20.3.0-1_mips_24kc.ipk
+Size: 4137
+SHA256sum: f35b17f999bc9beec50487a28de397cc50e9e75cdfed590ba69600e904594c31
+Description:  Channel group dialplan functions.
+
+Package: asterisk-func-hangupcause
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-hangupcause
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3054
+Filename: asterisk-func-hangupcause_20.3.0-1_mips_24kc.ipk
+Size: 3831
+SHA256sum: 1378b6ddc2254272ed3a12d20ab82f359178208020eb445c1b4f8fbf1ed605c6
+Description:  Hangup cause related functions and applications.
+
+Package: asterisk-func-holdintercept
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-holdintercept
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2992
+Filename: asterisk-func-holdintercept_20.3.0-1_mips_24kc.ipk
+Size: 3764
+SHA256sum: ffc7180ba750c20abef1c2ae35f7dfbb07327c8d822964524c93d249ef488b58
+Description:  Hold interception dialplan function.
+
+Package: asterisk-func-iconv
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-iconv
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5177
+Filename: asterisk-func-iconv_20.3.0-1_mips_24kc.ipk
+Size: 5940
+SHA256sum: dc821d717cfef9ac4eded159bcab0af76869fee42e6b58479fe0884a2f217bc0
+Description:  Charset conversions.
+
+Package: asterisk-func-jitterbuffer
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-jitterbuffer
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2669
+Filename: asterisk-func-jitterbuffer_20.3.0-1_mips_24kc.ipk
+Size: 3441
+SHA256sum: 055743b54ca7f6114c9ddc813a94d817cf3a6fc783b4387bed956356b13de1f7
+Description:  Jitter buffer for read side of channel.
+
+Package: asterisk-func-json
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-json
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4790
+Filename: asterisk-func-json_20.3.0-1_mips_24kc.ipk
+Size: 5566
+SHA256sum: 831859abccbbd644d7fc3005943247012a6258eacfee0b341eedc40468ad14d2
+Description:  JSON decoding function.
+
+Package: asterisk-func-lock
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-lock
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5464
+Filename: asterisk-func-lock_20.3.0-1_mips_24kc.ipk
+Size: 6246
+SHA256sum: 9e4f8bc169911fc0db3f628e92e8a84288545d5f55bd81a0618c71f910708b2a
+Description:  Dialplan mutexes.
+
+Package: asterisk-func-math
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-math
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5196
+Filename: asterisk-func-math_20.3.0-1_mips_24kc.ipk
+Size: 5993
+SHA256sum: 9207f3a5ba7ae1c0e762e892bd995a3fcfe0d09f81efd5f97f87f9da5aa53d04
+Description:  Mathematical dialplan function.
+
+Package: asterisk-func-md5
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-md5
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1874
+Filename: asterisk-func-md5_20.3.0-1_mips_24kc.ipk
+Size: 2673
+SHA256sum: f5efa28d3398cc55716e7053706c511a1bdbacd2b4933ac4be23fc175574a053
+Description:  MD5 digest dialplan functions.
+
+Package: asterisk-func-module
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-module
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1837
+Filename: asterisk-func-module_20.3.0-1_mips_24kc.ipk
+Size: 2644
+SHA256sum: 63ea468153bbed8d9d6c24e8847a121448e30fc0e6e1764576bdfff892c0ff65
+Description:  Checks if Asterisk module is loaded in memory.
+
+Package: asterisk-func-periodic-hook
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-app-chanspy, asterisk-func-cut, asterisk-func-groupcount, asterisk-func-uri
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-periodic-hook
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5774
+Filename: asterisk-func-periodic-hook_20.3.0-1_mips_24kc.ipk
+Size: 6593
+SHA256sum: 2515dbeaf7050ec112e69b3852f3096bd05334924e02d8128cf46d8fe91bff0f
+Description:  Periodic dialplan hooks.
+
+Package: asterisk-func-pitchshift
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-pitchshift
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5167
+Filename: asterisk-func-pitchshift_20.3.0-1_mips_24kc.ipk
+Size: 5943
+SHA256sum: 81cc016619e7d2cc02dadf417cbdd425d0a1886b0483bf9f4ae2f1f72955a30a
+Description:  Audio effects dialplan functions.
+
+Package: asterisk-func-presencestate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-presencestate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5398
+Filename: asterisk-func-presencestate_20.3.0-1_mips_24kc.ipk
+Size: 6196
+SHA256sum: 6fd2d7fdc8fadbba70a9bb988227473570fa71361fcc95611fdb5940d1081c4c
+Description:  Gets or sets a presence state in the dialplan.
+
+Package: asterisk-func-rand
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-rand
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2242
+Filename: asterisk-func-rand_20.3.0-1_mips_24kc.ipk
+Size: 3040
+SHA256sum: d0373a957391f1de92942146745fd3539fddbd3c8f7443a88fed840c9ff17569
+Description:  Random number dialplan function.
+
+Package: asterisk-func-realtime
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-realtime
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5218
+Filename: asterisk-func-realtime_20.3.0-1_mips_24kc.ipk
+Size: 6020
+SHA256sum: 4cea219ba49428f6c4c13004003e2de16cab76455e30cd9f736996001e8940a8
+Description:  Read/write/store/destroy values from a realtime repository.
+
+Package: asterisk-func-sayfiles
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-sayfiles
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2484
+Filename: asterisk-func-sayfiles_20.3.0-1_mips_24kc.ipk
+Size: 3242
+SHA256sum: 4affd62ce3e6f4861e6615d988e1fcdfa2df9493e2612f21125f51e1852b39e1
+Description:  Say application files.
+
+Package: asterisk-func-scramble
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-scramble
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3287
+Filename: asterisk-func-scramble_20.3.0-1_mips_24kc.ipk
+Size: 4058
+SHA256sum: 14fe2a248246cc5e615d4f243ec339074bae13789f845aba1c2c4ab08e3705bc
+Description:  Frequency inverting voice scrambler.
+
+Package: asterisk-func-sha1
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-sha1
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1940
+Filename: asterisk-func-sha1_20.3.0-1_mips_24kc.ipk
+Size: 2738
+SHA256sum: 23e76275c22a75048e45334f71f072691185c5e6331757483825a82b870d567b
+Description:  SHA-1 computation dialplan function.
+
+Package: asterisk-func-shell
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-shell
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2264
+Filename: asterisk-func-shell_20.3.0-1_mips_24kc.ipk
+Size: 3085
+SHA256sum: 70144f3678408c7f261167e76f0d2455f84a1b402810f1025840e5f70deb7bba
+Description:  Collects the output generated by a command executed by the system shell.
+
+Package: asterisk-func-sorcery
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-sorcery
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3138
+Filename: asterisk-func-sorcery_20.3.0-1_mips_24kc.ipk
+Size: 3914
+SHA256sum: 4f54c29f12bce7a745c64043256bdea364db42ee604da3b601aa1734583d4404
+Description:  Get a field from a sorcery object.
+
+Package: asterisk-func-sprintf
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-sprintf
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2844
+Filename: asterisk-func-sprintf_20.3.0-1_mips_24kc.ipk
+Size: 3616
+SHA256sum: 99fcebeb16e2f498b157e5faac3bee6bf684d91e53cbde87bb483ba4ba98c890
+Description:  SPRINTF dialplan function.
+
+Package: asterisk-func-srv
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-srv
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3741
+Filename: asterisk-func-srv_20.3.0-1_mips_24kc.ipk
+Size: 4503
+SHA256sum: f361c833e90bd9b1b9f73bcdcbfaf3e3b4f3446d98aadcaa4e0711eb59420386
+Description:  SRV related dialplan functions.
+
+Package: asterisk-func-sysinfo
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-sysinfo
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2434
+Filename: asterisk-func-sysinfo_20.3.0-1_mips_24kc.ipk
+Size: 3196
+SHA256sum: 9c4fa5b2b217e203d4474f5d3a3d7cc5562464d1c0b5c5fa280a95d68aaf8a1d
+Description:  System information related functions.
+
+Package: asterisk-func-talkdetect
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-talkdetect
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4203
+Filename: asterisk-func-talkdetect_20.3.0-1_mips_24kc.ipk
+Size: 4968
+SHA256sum: 9154fd0a19064e90be25968937887b4f73fc962d2af19cc3dc1466247ddeee6e
+Description:  Talk detection dialplan function.
+
+Package: asterisk-func-uri
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-uri
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1968
+Filename: asterisk-func-uri_20.3.0-1_mips_24kc.ipk
+Size: 2766
+SHA256sum: 486697aeb342164aa46e3160fb337916a0e80a9f6a6d7757829923628154dbe8
+Description:  URI encode/decode dialplan functions.
+
+Package: asterisk-func-version
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-version
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2342
+Filename: asterisk-func-version_20.3.0-1_mips_24kc.ipk
+Size: 3142
+SHA256sum: 88b48da82ce50ec51c1095b3a92d5b54d9aed68784c0fe746bbe782d36d1107b
+Description:  Get Asterisk version/build info.
+
+Package: asterisk-func-vmcount
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-vmcount
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2012
+Filename: asterisk-func-vmcount_20.3.0-1_mips_24kc.ipk
+Size: 2835
+SHA256sum: a2874e48350a0851371f4b2928381eceddded7ba259aa76b822a251f5d018cf5
+Description:  Indicator for whether a voice mailbox has messages in a given folder.
+
+Package: asterisk-func-volume
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-func-volume
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3465
+Filename: asterisk-func-volume_20.3.0-1_mips_24kc.ipk
+Size: 4239
+SHA256sum: 4b379c648bca8d73f5196f56313f47050cae2c2d2cba8cc25d2026455895f323
+Description:  Technology independent volume control.
+
+Package: asterisk-odbc
+Version: 20.3.0-1
+Depends: libc, asterisk, libpthread, libc, unixodbc
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-odbc
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 69807
+Filename: asterisk-odbc_20.3.0-1_mips_24kc.ipk
+Size: 70687
+SHA256sum: 0647df9cdc908839f13bd158173d025968306bf5a3756c6da1ade15893414464
+Description:  ODBC support.
+
+Package: asterisk-pbx-ael
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ael-share
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pbx-ael
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8976
+Filename: asterisk-pbx-ael_20.3.0-1_mips_24kc.ipk
+Size: 9832
+SHA256sum: b7815d87005c1ed0d77e3f84ed50dcd5afff109f97a844103a01981e653c0ed1
+Description:  Asterisk Extension Language compiler.
+
+Package: asterisk-pbx-dundi
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pbx-dundi
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 55786
+Filename: asterisk-pbx-dundi_20.3.0-1_mips_24kc.ipk
+Size: 56506
+SHA256sum: f27deded88d812e838ab5fd3b12974037a771dde16687c412814f3d8ed6f1d41
+Description:  Distributed Universal Number Discovery.
+
+Package: asterisk-pbx-loopback
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pbx-loopback
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3014
+Filename: asterisk-pbx-loopback_20.3.0-1_mips_24kc.ipk
+Size: 3777
+SHA256sum: 807c54615938b39ce35bce7a9f1151ef1b1340526ec44e798b8f0dba379d1fda
+Description:  Loopback switch.
+
+Package: asterisk-pbx-lua
+Version: 20.3.0-1
+Depends: libc, asterisk, liblua5.1.5
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pbx-lua
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 12947
+Filename: asterisk-pbx-lua_20.3.0-1_mips_24kc.ipk
+Size: 13785
+SHA256sum: 9af1c96e3b7546df8214c323a83cadb7726364216c76c60624e459ba02f1e724
+Description:  Lua PBX switch.
+
+Package: asterisk-pbx-realtime
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pbx-realtime
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5611
+Filename: asterisk-pbx-realtime_20.3.0-1_mips_24kc.ipk
+Size: 6369
+SHA256sum: f3275079aab0984ce834bf2f3a1ae4ea2871f45f22d7670f96f24a3a04ac9a83
+Description:  Realtime switch.
+
+Package: asterisk-pbx-spool
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pbx-spool
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9664
+Filename: asterisk-pbx-spool_20.3.0-1_mips_24kc.ipk
+Size: 10443
+SHA256sum: 8204218f15b7f48c7aa0882bd9f5763f9c0f1f816ecb669fcc1bad6d025402cc
+Description:  Outgoing spool support.
+
+Package: asterisk-pgsql
+Version: 20.3.0-1
+Depends: libc, asterisk, libpq
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pgsql
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 36230
+Filename: asterisk-pgsql_20.3.0-1_mips_24kc.ipk
+Size: 37110
+SHA256sum: 3b8f4f334d2c7620f863017d689bce3e1b2e39809c6827639cd6226c0b829dbc
+Description:  PostgreSQL support.
+
+Package: asterisk-pjsip
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-http-websocket, asterisk-res-pjproject, asterisk-res-sorcery, libpjsip, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsua, libpjsua2
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-pjsip
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 513088
+Filename: asterisk-pjsip_20.3.0-1_mips_24kc.ipk
+Size: 512845
+SHA256sum: 5ae90501bcd5ef80631dc43d3112d3fbbaab3cb8e07c3d0f2c37335c0fbe5499
+Description:  PJSIP SIP stack.
+
+Package: asterisk-res-adsi
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-adsi
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 10253
+Filename: asterisk-res-adsi_20.3.0-1_mips_24kc.ipk
+Size: 11033
+SHA256sum: 250ca47c5e141dbbc0301424f8c4d706c36d7ed32f217d68681813cef8e38566
+Description:  ADSI resource.
+
+Package: asterisk-res-aeap
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-http-websocket
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-aeap
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 15804
+Filename: asterisk-res-aeap_20.3.0-1_mips_24kc.ipk
+Size: 16558
+SHA256sum: 45779bd3fd1c4ae3b71fd4aecc2e4c0c6e877696561ed8bc17d6b0d9a3dd826d
+Description:  AEAP resource.
+
+Package: asterisk-res-ael-share
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ael-share
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 41518
+Filename: asterisk-res-ael-share_20.3.0-1_mips_24kc.ipk
+Size: 42089
+SHA256sum: 2cc12554048a5cfb0c0931d02243f9c4e64c33b7b28a5f632bc56dacb7c1f889
+Description:  Shareable code for AEL.
+
+Package: asterisk-res-agi
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-speech
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-agi
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 29283
+Filename: asterisk-res-agi_20.3.0-1_mips_24kc.ipk
+Size: 29950
+SHA256sum: 9876ff0193d19a69b2a2dd2fd8855eeae39eac0b9da588ed7f631257a5573a03
+Description:  Asterisk Gateway Interface.
+
+Package: asterisk-res-ari-applications
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-applications
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4184
+Filename: asterisk-res-ari-applications_20.3.0-1_mips_24kc.ipk
+Size: 4995
+SHA256sum: b93368ad311d22a02a931b4aae4a868e09626dfce3dde46eb21952012bbcf4fa
+Description:  RESTful API module - Stasis application resources.
+
+Package: asterisk-res-ari-asterisk
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-asterisk
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8507
+Filename: asterisk-res-ari-asterisk_20.3.0-1_mips_24kc.ipk
+Size: 9329
+SHA256sum: 235a0994e4eff9ea12e282db326f622a714c5508fde8f15ef81cf68ca48aa539
+Description:  RESTful API module - Asterisk resources.
+
+Package: asterisk-res-ari-bridges
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis-playback
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-bridges
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 12366
+Filename: asterisk-res-ari-bridges_20.3.0-1_mips_24kc.ipk
+Size: 13174
+SHA256sum: 5bdf82f4378b991f6f15e367e3905373c60f71e5bd03814ad8313fb59d673ba3
+Description:  RESTful API module - bridge resources.
+
+Package: asterisk-res-ari-channels
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis-answer, asterisk-res-stasis-playback, asterisk-res-stasis-snoop
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-channels
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 20477
+Filename: asterisk-res-ari-channels_20.3.0-1_mips_24kc.ipk
+Size: 21169
+SHA256sum: 56e408e8b40b542eee47826f051ae08fc0e75ed9118fab7833a213bc5aacbb53
+Description:  RESTful API module - channel resources.
+
+Package: asterisk-res-ari-device-states
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis-device-state
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-device-states
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2699
+Filename: asterisk-res-ari-device-states_20.3.0-1_mips_24kc.ipk
+Size: 3499
+SHA256sum: 343cc075fed5a47641022a51aa0bd8f97c929973da9922934e87ab921c3723a8
+Description:  RESTful API module - device state resources.
+
+Package: asterisk-res-ari-endpoints
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-endpoints
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4843
+Filename: asterisk-res-ari-endpoints_20.3.0-1_mips_24kc.ipk
+Size: 5647
+SHA256sum: 966681634b16eaa0fb825a1bd5170b86743cf9f0b09ece530950d69e8eda241c
+Description:  RESTful API module - endpoint resources.
+
+Package: asterisk-res-ari-events
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-events
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9689
+Filename: asterisk-res-ari-events_20.3.0-1_mips_24kc.ipk
+Size: 10312
+SHA256sum: cba5fbc6e5a7033b62e4c7200b943eba3cdd9c1da46b18d119d06f71dd60b7fa
+Description:  RESTful API module - WebSocket resource.
+
+Package: asterisk-res-ari-mailboxes
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis-mailbox
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-mailboxes
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2697
+Filename: asterisk-res-ari-mailboxes_20.3.0-1_mips_24kc.ipk
+Size: 3494
+SHA256sum: 6ff0f18c58300b5320a23e0a78874d54cc92c17a5ab91276e3f50b4928716494
+Description:  RESTful API module - mailboxes resources.
+
+Package: asterisk-res-ari-model
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-model
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 24455
+Filename: asterisk-res-ari-model_20.3.0-1_mips_24kc.ipk
+Size: 25074
+SHA256sum: 9c5a3043d18a83f2d1f02da0a0ca8fea704ed5b0157afeb331c71271a6899b0c
+Description:  ARI model validators.
+
+Package: asterisk-res-ari-playbacks
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis-playback
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-playbacks
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2905
+Filename: asterisk-res-ari-playbacks_20.3.0-1_mips_24kc.ipk
+Size: 3713
+SHA256sum: 73adcc4fd4f55ea3184a6a2b34bfd6a988d718f41487cde64eef91541153f1af
+Description:  RESTful API module - playback control resources.
+
+Package: asterisk-res-ari-recordings
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis-recording
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-recordings
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4691
+Filename: asterisk-res-ari-recordings_20.3.0-1_mips_24kc.ipk
+Size: 5492
+SHA256sum: f388c9b9b8914e3e9c7eef5183f2ea09717b8f5a4168021a5fc95c12064a7080
+Description:  RESTful API module - recording resources.
+
+Package: asterisk-res-ari-sounds
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-ari, asterisk-res-ari-model, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari-sounds
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3975
+Filename: asterisk-res-ari-sounds_20.3.0-1_mips_24kc.ipk
+Size: 4760
+SHA256sum: 2bdd8a6b6921131db8a3e412f0bc51ff0afc21faad44fc169ddd25b9198c868e
+Description:  RESTful API module - sound resources.
+
+Package: asterisk-res-ari
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-http-websocket
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-ari
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 19549
+Filename: asterisk-res-ari_20.3.0-1_mips_24kc.ipk
+Size: 20166
+SHA256sum: 4bb01a80f610685464c39c8efb1df6b2d99434fa1e4f3816557927c69500fa2c
+Description:  Asterisk RESTful Interface.
+
+Package: asterisk-res-audiosocket
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-audiosocket
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4219
+Filename: asterisk-res-audiosocket_20.3.0-1_mips_24kc.ipk
+Size: 4983
+SHA256sum: eafb4ca9a57e13ea0abc5d917c7919adabf57b1f48ea41c9f6dee76c3fe3014f
+Description:  Audiosocket resource module.
+
+Package: asterisk-res-calendar-caldav
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-calendar, libical, libneon
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-calendar-caldav
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 10308
+Filename: asterisk-res-calendar-caldav_20.3.0-1_mips_24kc.ipk
+Size: 11107
+SHA256sum: 003356a3589683321082fe137a0f92b8b105c6cbf35614a79244302ff0cf0827
+Description:  Asterisk CalDAV calendar integration.
+
+Package: asterisk-res-calendar-ews
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-calendar, libneon
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-calendar-ews
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 11736
+Filename: asterisk-res-calendar-ews_20.3.0-1_mips_24kc.ipk
+Size: 12543
+SHA256sum: d66834bef9e68d0ace2b0d70259a43738bb5ee8930721b1ea80ee2956087cb3f
+Description:  Asterisk MS Exchange Web Service calendar integration.
+
+Package: asterisk-res-calendar-exchange
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-calendar, libical, libiksemel, libneon
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-calendar-exchange
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9382
+Filename: asterisk-res-calendar-exchange_20.3.0-1_mips_24kc.ipk
+Size: 10192
+SHA256sum: 6c88e8c9cc1f2f91d18c305a5dbe4a988a8692382669334414c8ce0978263e57
+Description:  Asterisk MS Exchange calendar integration.
+
+Package: asterisk-res-calendar-icalendar
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-calendar, libical, libneon
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-calendar-icalendar
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8452
+Filename: asterisk-res-calendar-icalendar_20.3.0-1_mips_24kc.ipk
+Size: 9262
+SHA256sum: a425a91a83b06ece72f431d8697d7e0535ba03586a7f4f1ab6a63a9e62e5c801
+Description:  Asterisk iCalendar .ics file integration.
+
+Package: asterisk-res-calendar
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-calendar
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 20128
+Filename: asterisk-res-calendar_20.3.0-1_mips_24kc.ipk
+Size: 20881
+SHA256sum: 996410c7ff27c7b2b66d34b1d93c43f0583529922ce4ccbc70ad518813c96de2
+Description:  Asterisk calendar integration.
+
+Package: asterisk-res-chan-stats
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-statsd
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-chan-stats
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3124
+Filename: asterisk-res-chan-stats_20.3.0-1_mips_24kc.ipk
+Size: 3906
+SHA256sum: 5f9cc4289c1a9aa2bac4d3b2ec5f5a1840005e01d66ec51fc8144d0c47f20818
+Description:  Example of how to use Stasis.
+
+Package: asterisk-res-clialiases
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-clialiases
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6827
+Filename: asterisk-res-clialiases_20.3.0-1_mips_24kc.ipk
+Size: 7659
+SHA256sum: 54a993cc4476ec73046988891b0f1324aea0acd8e8085f0b25d7533ad974f51b
+Description:  CLI aliases.
+
+Package: asterisk-res-cliexec
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-cliexec
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3306
+Filename: asterisk-res-cliexec_20.3.0-1_mips_24kc.ipk
+Size: 4081
+SHA256sum: f3da746fa9f84b4eb37220df77d40d99ce9a6a5a72c354253672a9e5b7868448
+Description:  Simple dialplan execution from the CLI.
+
+Package: asterisk-res-clioriginate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-clioriginate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3777
+Filename: asterisk-res-clioriginate_20.3.0-1_mips_24kc.ipk
+Size: 4545
+SHA256sum: 24005ab4387e3141c74fcff46ec0c69082a1b5625f91423c7dfc774e8a437126
+Description:  Call origination and redirection from the CLI.
+
+Package: asterisk-res-config-ldap
+Version: 20.3.0-1
+Depends: libc, asterisk, libopenldap
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-config-ldap
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 15835
+Filename: asterisk-res-config-ldap_20.3.0-1_mips_24kc.ipk
+Size: 16617
+SHA256sum: ef083ae35a1fd7c8bf303b4ba172b831e83502e16df09acd83c4d03c8c90fc5e
+Description:  LDAP realtime interface.
+
+Package: asterisk-res-config-mysql
+Version: 20.3.0-1
+Depends: libc, asterisk, libmysqlclient3
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-config-mysql
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 17497
+Filename: asterisk-res-config-mysql_20.3.0-1_mips_24kc.ipk
+Size: 18270
+SHA256sum: 4f76f749056bfc4bf1445589b031c85b275f458f0ec5815c3278044ce7daa1a5
+Description:  MySQL realtime configuration driver.
+
+Package: asterisk-res-config-sqlite3
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-config-sqlite3
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 11194
+Filename: asterisk-res-config-sqlite3_20.3.0-1_mips_24kc.ipk
+Size: 11991
+SHA256sum: 3f303cfefa7776ee82876e5ad1ac93ea3c79118ee4c7a6cd67151cf81553757f
+Description:  SQLite3 realtime config engine.
+
+Package: asterisk-res-convert
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-convert
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2912
+Filename: asterisk-res-convert_20.3.0-1_mips_24kc.ipk
+Size: 3683
+SHA256sum: 28e0c79ecad7deed6314fe146cc02629e3c1d2109b071c1e23079bc96bc4f032
+Description:  File format conversion CLI command.
+
+Package: asterisk-res-endpoint-stats
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-statsd
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-endpoint-stats
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2974
+Filename: asterisk-res-endpoint-stats_20.3.0-1_mips_24kc.ipk
+Size: 3742
+SHA256sum: 491613bf6d007e9b16863742877b43907a8948656181b05273978de9524df3e2
+Description:  Endpoint statistics.
+
+Package: asterisk-res-fax-spandsp
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-fax, libspandsp, libtiff5
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-fax-spandsp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 11339
+Filename: asterisk-res-fax-spandsp_20.3.0-1_mips_24kc.ipk
+Size: 12155
+SHA256sum: 4ab91438957b9fa48b14c765e1f920ce077e4f16d326c5d52962ff60516105dc
+Description:  Spandsp G.711 and T.38 FAX technologies.
+
+Package: asterisk-res-fax
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-fax
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 37658
+Filename: asterisk-res-fax_20.3.0-1_mips_24kc.ipk
+Size: 38542
+SHA256sum: 4abf9520d18ebeb2d2adb4ec01010d01dd045cc4944573555b98189f88207f8d
+Description:  Generic FAX applications.
+
+Package: asterisk-res-format-attr-celt
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-celt
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2986
+Filename: asterisk-res-format-attr-celt_20.3.0-1_mips_24kc.ipk
+Size: 3766
+SHA256sum: 6b8ca54bc343c51ff98c2df006b762579f852b2ec65ac71b164695ea91dab527
+Description:  CELT format attribute module.
+
+Package: asterisk-res-format-attr-g729
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-g729
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1875
+Filename: asterisk-res-format-attr-g729_20.3.0-1_mips_24kc.ipk
+Size: 2676
+SHA256sum: 27ea247054cbdd7541c49ac60dde4698555397ef4c4ab1f951d1375e4f84ae76
+Description:  G.729 format attribute module.
+
+Package: asterisk-res-format-attr-h263
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-h263
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4162
+Filename: asterisk-res-format-attr-h263_20.3.0-1_mips_24kc.ipk
+Size: 4942
+SHA256sum: bbfa52355138972825793e6a56f28affee3146309c4ccda1e4f2d0c924fb31ed
+Description:  H.263 format attribute module.
+
+Package: asterisk-res-format-attr-h264
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-h264
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4104
+Filename: asterisk-res-format-attr-h264_20.3.0-1_mips_24kc.ipk
+Size: 4884
+SHA256sum: cb7396a8534201f2bf794c40e1fd78b49cfe59e73ba8ecf888fb86c90a6b3ec4
+Description:  H.264 format attribute module.
+
+Package: asterisk-res-format-attr-ilbc
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-ilbc
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2624
+Filename: asterisk-res-format-attr-ilbc_20.3.0-1_mips_24kc.ipk
+Size: 3394
+SHA256sum: a92b40ed7ef4ce94cd17e65cb9d6a3157173f501a7039f92885d5aeba9124de2
+Description:  iLBC format attribute module.
+
+Package: asterisk-res-format-attr-opus
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-opus
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4053
+Filename: asterisk-res-format-attr-opus_20.3.0-1_mips_24kc.ipk
+Size: 4817
+SHA256sum: d9bf7c045cf9c493f7c1883e2f76752e420bf50d2c101f57129c14ebd1bad669
+Description:  Opus format attribute module.
+
+Package: asterisk-res-format-attr-silk
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-silk
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3228
+Filename: asterisk-res-format-attr-silk_20.3.0-1_mips_24kc.ipk
+Size: 3998
+SHA256sum: 93648d1155cc97638b6476331958b635041c476c783b153bff5c9ea9b14c7500
+Description:  SILK format attribute module.
+
+Package: asterisk-res-format-attr-siren14
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-siren14
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2368
+Filename: asterisk-res-format-attr-siren14_20.3.0-1_mips_24kc.ipk
+Size: 3179
+SHA256sum: d7a86a93f411004abed3fbe92263a0e1d73e88d535ae977b334ce3a7af00f2af
+Description:  Siren14 format attribute module.
+
+Package: asterisk-res-format-attr-siren7
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-siren7
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2367
+Filename: asterisk-res-format-attr-siren7_20.3.0-1_mips_24kc.ipk
+Size: 3176
+SHA256sum: 7ee7bef7cff0cf1f67334a10be1895f962c8bd435291d07cf29b59d6f93d5702
+Description:  Siren7 format attribute module.
+
+Package: asterisk-res-format-attr-vp8
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-format-attr-vp8
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3048
+Filename: asterisk-res-format-attr-vp8_20.3.0-1_mips_24kc.ipk
+Size: 3815
+SHA256sum: 5b78d350997c6964fc7363706ac7cce46444794a2bcc57d8de8caac5c6701a8d
+Description:  VP8 format attribute module.
+
+Package: asterisk-res-hep-pjsip
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-hep, asterisk-pjsip
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-hep-pjsip
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3417
+Filename: asterisk-res-hep-pjsip_20.3.0-1_mips_24kc.ipk
+Size: 4190
+SHA256sum: 7cafd9f1cf81998cab65d5370045b1079c85ce58ce58ec8a5b9416ef9ff5888f
+Description:  PJSIP HEPv3 logger.
+
+Package: asterisk-res-hep-rtcp
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-hep
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-hep-rtcp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3181
+Filename: asterisk-res-hep-rtcp_20.3.0-1_mips_24kc.ipk
+Size: 3948
+SHA256sum: ce0cec3efc97c4673c342b65e0ad2318be8e6b06562d07daf0d5ac5c6ca99e1f
+Description:  RTCP HEPv3 logger.
+
+Package: asterisk-res-hep
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-hep
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6806
+Filename: asterisk-res-hep_20.3.0-1_mips_24kc.ipk
+Size: 7627
+SHA256sum: 96514fb7b9e302385d68f818ea0f776e9f537b6f2aa4b68f64d3aec2ebc7ced4
+Description:  HEPv3 API.
+
+Package: asterisk-res-http-media-cache
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-curl
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-http-media-cache
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 7933
+Filename: asterisk-res-http-media-cache_20.3.0-1_mips_24kc.ipk
+Size: 8777
+SHA256sum: 1be67091a26a7b886ffe28a000556d2a69c20d9296223b43d1d45ef84e4e56f2
+Description:  HTTP media cache backend.
+
+Package: asterisk-res-http-websocket
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-http-websocket
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 14407
+Filename: asterisk-res-http-websocket_20.3.0-1_mips_24kc.ipk
+Size: 15154
+SHA256sum: 74c16ca9c311803f56ed427b67fcbe98cea69327eb00223b6775812083ea5c32
+Description:  HTTP WebSocket support.
+
+Package: asterisk-res-limit
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-limit
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3259
+Filename: asterisk-res-limit_20.3.0-1_mips_24kc.ipk
+Size: 4008
+SHA256sum: 4eb2a76cea8c209880e210f1541015b54ab899c59b058897692640a03ecd2239
+Description:  Resource limits.
+
+Package: asterisk-res-manager-devicestate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-manager-devicestate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2740
+Filename: asterisk-res-manager-devicestate_20.3.0-1_mips_24kc.ipk
+Size: 3511
+SHA256sum: 430e54df872f34679ed5a0444d93e99dcfe949cd443468a407abeb2aeda49a58
+Description:  Manager device state topic forwarder.
+
+Package: asterisk-res-manager-presencestate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-manager-presencestate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2722
+Filename: asterisk-res-manager-presencestate_20.3.0-1_mips_24kc.ipk
+Size: 3487
+SHA256sum: 19b64d60d7d9cfa85c55f3a59ba87dcfcf3c14a9cb32ce611e7dc26ed7b48fba
+Description:  Manager presence state topic forwarder.
+
+Package: asterisk-res-monitor
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-monitor
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9219
+Filename: asterisk-res-monitor_20.3.0-1_mips_24kc.ipk
+Size: 10007
+SHA256sum: cc84954acd2d1c6591f7c513edd7bf5a790110cbe737ea2034f74a84dacb1235
+Description:  Call monitoring resource.
+
+Package: asterisk-res-musiconhold
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-musiconhold
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 23846
+Filename: asterisk-res-musiconhold_20.3.0-1_mips_24kc.ipk
+Size: 24582
+SHA256sum: 92aaadb0a85a5359e6bc54041e718af6c8ddbe6bcc3150211de2524c33ce80ae
+Description:  Music On Hold resource.
+
+Package: asterisk-res-mutestream
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-mutestream
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2889
+Filename: asterisk-res-mutestream_20.3.0-1_mips_24kc.ipk
+Size: 3659
+SHA256sum: 04c2c8fda38bd1a5892797b8b8276f2e0ad6c44d750075fcc7c34b71a5066875
+Description:  Mute audio stream resources.
+
+Package: asterisk-res-mwi-devstate
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-mwi-devstate
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2515
+Filename: asterisk-res-mwi-devstate_20.3.0-1_mips_24kc.ipk
+Size: 3333
+SHA256sum: 3d63874e40d74c81248d5bc20c5e3f1fb2c6338680619ac5d2c251591f8ce5e2
+Description:  This module allows presence subscriptions to voicemail boxes. This
+ allows common BLF keys to act as voicemail waiting indicators.
+
+Package: asterisk-res-mwi-external-ami
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-mwi-external
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-mwi-external-ami
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3794
+Filename: asterisk-res-mwi-external-ami_20.3.0-1_mips_24kc.ipk
+Size: 4571
+SHA256sum: 498a7f6ed0fab970ec54b83c605b8f1d5379a88bcbae5c62973ee18a07d748c4
+Description:  AMI support for external MWI.
+
+Package: asterisk-res-mwi-external
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-mwi-external
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4496
+Filename: asterisk-res-mwi-external_20.3.0-1_mips_24kc.ipk
+Size: 5265
+SHA256sum: f6432a0c1925b8bc81954cec01c1a3458c37b02e2cffb227eeae4deb9eaa60fb
+Description:  Core external MWI resource.
+
+Package: asterisk-res-parking
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-bridge-holding
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-parking
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 34135
+Filename: asterisk-res-parking_20.3.0-1_mips_24kc.ipk
+Size: 34802
+SHA256sum: f8e9dde41a257acdc37f6e590b4c4f27cf070e292e39572a6beeb658630259ff
+Description:  Call parking resource.
+
+Package: asterisk-res-phoneprov
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-phoneprov
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 18906
+Filename: asterisk-res-phoneprov_20.3.0-1_mips_24kc.ipk
+Size: 19653
+SHA256sum: 5c35b8a967a96367774240f1bf913d25f9119ddec5f2aa97e9399655560f3cac
+Description:  HTTP phone provisioning.
+
+Package: asterisk-res-pjproject
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-sorcery, libpj, libpjlib-util, libpjmedia, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsip, libpjsua, libpjsua2
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-pjproject
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8397
+Filename: asterisk-res-pjproject_20.3.0-1_mips_24kc.ipk
+Size: 9293
+SHA256sum: 954d22b6beb384556b05a8e24fd12405b1d16f640189b88bb365f33754e77ed2
+Description:  PJProject log and utility support.
+
+Package: asterisk-res-pjsip-aoc
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-pjsip, asterisk-res-pjproject
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-pjsip-aoc
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6762
+Filename: asterisk-res-pjsip-aoc_20.3.0-1_mips_24kc.ipk
+Size: 7576
+SHA256sum: ea4e228fb3d2061168ad29fd0425f123592d29ca6dbb45a3c88aa97c8814e25d
+Description:  PJSIP AOC Support.
+
+Package: asterisk-res-pjsip-phoneprov
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-pjsip, asterisk-res-phoneprov
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-pjsip-phoneprov
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4231
+Filename: asterisk-res-pjsip-phoneprov_20.3.0-1_mips_24kc.ipk
+Size: 5016
+SHA256sum: 01bae6dc3040f41d71a7145981554bb11d767a345440d1dac60166c4dfb6cbe4
+Description:  PJSIP phone provisioning.
+
+Package: asterisk-res-pjsip-rfc3329
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-pjsip, asterisk-res-pjproject
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-pjsip-rfc3329
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3410
+Filename: asterisk-res-pjsip-rfc3329_20.3.0-1_mips_24kc.ipk
+Size: 4190
+SHA256sum: 3fb49b5fd8b18ac8500018922527f06d2551d996c0072052f0faef52800e28c8
+Description:  PJSIP RFC3329 Support (partial).
+
+Package: asterisk-res-pjsip-stir-shaken
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-pjsip, asterisk-res-stir-shaken
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-pjsip-stir-shaken
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6510
+Filename: asterisk-res-pjsip-stir-shaken_20.3.0-1_mips_24kc.ipk
+Size: 7337
+SHA256sum: 4e6dfc0a14a3f0e166751c6f38b05bfefa39780a841954461d7d6b7e9ea30b7a
+Description:  PJSIP STIR/SHAKEN resource module.
+
+Package: asterisk-res-pktccops
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-pktccops
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 14578
+Filename: asterisk-res-pktccops_20.3.0-1_mips_24kc.ipk
+Size: 15391
+SHA256sum: 1b2efdb235b17384b53cb603d22fb2044265d9f6c76577d262c5a9cd1349efec
+Description:  PktcCOPS manager for MGCP.
+
+Package: asterisk-res-prometheus
+Version: 20.3.0-1
+Depends: libc, asterisk, libpjsip, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsua, libpjsua2
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-prometheus
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 17137
+Filename: asterisk-res-prometheus_20.3.0-1_mips_24kc.ipk
+Size: 18016
+SHA256sum: 1bcaa8b8c8aa93aeb1440d607f19aa17475b58a03d8f522be8bb9ec2653cac37
+Description:  Prometheus resource module.
+
+Package: asterisk-res-realtime
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-realtime
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3562
+Filename: asterisk-res-realtime_20.3.0-1_mips_24kc.ipk
+Size: 4328
+SHA256sum: 8197fd69229ae223be1da9765932f2ee412e74c71b68be8638af5cc9b0e5ca45
+Description:  Realtime data lookup/rewrite.
+
+Package: asterisk-res-remb-modifier
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-remb-modifier
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3353
+Filename: asterisk-res-remb-modifier_20.3.0-1_mips_24kc.ipk
+Size: 4110
+SHA256sum: 05cbcd0e3e6810b702008f4222a4cff6622b9e1535b64ed751648353d5a32a33
+Description:  REMB modifier module.
+
+Package: asterisk-res-resolver-unbound
+Version: 20.3.0-1
+Depends: libc, asterisk, libunbound
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-resolver-unbound
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6463
+Filename: asterisk-res-resolver-unbound_20.3.0-1_mips_24kc.ipk
+Size: 7335
+SHA256sum: 47876f537e8c9684ab5db260fb029f8fd14a66b1090e8b3718797890165b6623
+Description:  Unbound DNS resolver support.
+
+Package: asterisk-res-rtp-asterisk
+Version: 20.3.0-1
+Depends: libc, asterisk, libpjsip, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsua, libpjsua2
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-rtp-asterisk
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 69958
+Filename: asterisk-res-rtp-asterisk_20.3.0-1_mips_24kc.ipk
+Size: 70568
+SHA256sum: 10dec0f1c94792a6fd5861fb3457300d223a48cf9277d1ba3bedaaa7f8cd3da3
+Description:  Asterisk RTP stack.
+
+Package: asterisk-res-rtp-multicast
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-rtp-multicast
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5629
+Filename: asterisk-res-rtp-multicast_20.3.0-1_mips_24kc.ipk
+Size: 6398
+SHA256sum: c143c250e7a16d16a3a6add15534f0eebb86b3d1fe2751c7c9825a860bb2f7a3
+Description:  Multicast RTP engine.
+
+Package: asterisk-res-security-log
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-security-log
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3184
+Filename: asterisk-res-security-log_20.3.0-1_mips_24kc.ipk
+Size: 3948
+SHA256sum: 2b39a31c8825bc69674193cbbbe9da8909fe49e6dbb225999a1e8652e97dce63
+Description:  Security event logging.
+
+Package: asterisk-res-smdi
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-smdi
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 14696
+Filename: asterisk-res-smdi_20.3.0-1_mips_24kc.ipk
+Size: 15471
+SHA256sum: 8db905e8277761e11bda6d21d406243792a52891ee70af58132d4d7135356747
+Description:  Simplified Message Desk Interface resource.
+
+Package: asterisk-res-snmp
+Version: 20.3.0-1
+Depends: libc, asterisk, libnetsnmp
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-snmp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8933
+Filename: asterisk-res-snmp_20.3.0-1_mips_24kc.ipk
+Size: 9761
+SHA256sum: 828327b4d6de842ec008a4110c2904ae4fe6cdc6c69827200c786a25c7952b7f
+Description:  SNMP agent for Asterisk.
+
+Package: asterisk-res-sorcery-memory-cache
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-sorcery-memory-cache
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 14114
+Filename: asterisk-res-sorcery-memory-cache_20.3.0-1_mips_24kc.ipk
+Size: 14909
+SHA256sum: a99449b21a0ad3452fbcfdc51a4845d07482ae26cf68629185332065efabc628
+Description:  Sorcery memory cache object wizard.
+
+Package: asterisk-res-sorcery
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-sorcery
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 15316
+Filename: asterisk-res-sorcery_20.3.0-1_mips_24kc.ipk
+Size: 16126
+SHA256sum: 7d34c8a6159134b8fe865bd5cf5e15cb18bd5b0c2d6c1c5762b0402cd409d601
+Description:  Sorcery backend modules for data access intended for using realtime as
+ backend.
+
+Package: asterisk-res-speech-aeap
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-aeap, asterisk-res-speech
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-speech-aeap
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5857
+Filename: asterisk-res-speech-aeap_20.3.0-1_mips_24kc.ipk
+Size: 6652
+SHA256sum: cd9c4c039faf79c2dd3ee9e286783cb27af613e54704bb8939598506b206f673
+Description:  AEAP Speech Engine support.
+
+Package: asterisk-res-speech
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-speech
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4024
+Filename: asterisk-res-speech_20.3.0-1_mips_24kc.ipk
+Size: 4785
+SHA256sum: b0af347e5634b7ba2a7f64c900f10309f5eb45a6e8e26f906b76785b6ef61a57
+Description:  Generic speech recognition API.
+
+Package: asterisk-res-srtp
+Version: 20.3.0-1
+Depends: libc, asterisk, libsrtp2
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-srtp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 10055
+Filename: asterisk-res-srtp_20.3.0-1_mips_24kc.ipk
+Size: 10837
+SHA256sum: db1a99dd229fcc8ac69da8a14132b73cd5800cd8f16634330d614ea65a8785b9
+Description:  Secure RTP.
+
+Package: asterisk-res-stasis-answer
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stasis-answer
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2039
+Filename: asterisk-res-stasis-answer_20.3.0-1_mips_24kc.ipk
+Size: 2844
+SHA256sum: 9c59fbe409c80bddb74930803e25d1ec6bf89f739cca929fb880c7b7ead75c11
+Description:  Stasis application answer support.
+
+Package: asterisk-res-stasis-device-state
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stasis-device-state
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6080
+Filename: asterisk-res-stasis-device-state_20.3.0-1_mips_24kc.ipk
+Size: 6863
+SHA256sum: 8474a3ae4b7abfd4b1489cf9724afabc051fcaa14c47799a117818b211ce1750
+Description:  Stasis application device state support.
+
+Package: asterisk-res-stasis-mailbox
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-stasis, asterisk-res-mwi-external
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stasis-mailbox
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 2661
+Filename: asterisk-res-stasis-mailbox_20.3.0-1_mips_24kc.ipk
+Size: 3445
+SHA256sum: 9ac5424d019fb44307a5961906d067b2a86db645c2ff0c0cc971879f95707780
+Description:  Stasis application mailbox support.
+
+Package: asterisk-res-stasis-playback
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-stasis-recording
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stasis-playback
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8078
+Filename: asterisk-res-stasis-playback_20.3.0-1_mips_24kc.ipk
+Size: 8866
+SHA256sum: 6e3e9d7bf638475361b0fb924c3e3aa4a11f11c986f71366537b1338e1f2175b
+Description:  Stasis application playback support.
+
+Package: asterisk-res-stasis-recording
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-stasis
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stasis-recording
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 9779
+Filename: asterisk-res-stasis-recording_20.3.0-1_mips_24kc.ipk
+Size: 10570
+SHA256sum: 059d9c0f537b04f3579eec5096ab136c15e1d4233b934ba78522f0e205af7880
+Description:  Stasis application recording support.
+
+Package: asterisk-res-stasis-snoop
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-res-stasis-recording
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stasis-snoop
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5327
+Filename: asterisk-res-stasis-snoop_20.3.0-1_mips_24kc.ipk
+Size: 6125
+SHA256sum: 5108170a2fbee98e594532349edfc80a52a517360f1617f857c87bce33e18cc3
+Description:  Stasis application snoop support.
+
+Package: asterisk-res-stasis
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stasis
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 40536
+Filename: asterisk-res-stasis_20.3.0-1_mips_24kc.ipk
+Size: 41274
+SHA256sum: 3f2cc8f623be0ce9867004c77ec7334f729f21af3b901847c36120307c093e76
+Description:  Stasis application support.
+
+Package: asterisk-res-statsd
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-statsd
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 5926
+Filename: asterisk-res-statsd_20.3.0-1_mips_24kc.ipk
+Size: 6742
+SHA256sum: 6de7497110e20a8bb229c92abf464db7e534fc38a88e43980bfd8b5fbdda36dd
+Description:  Statsd client support.
+
+Package: asterisk-res-stir-shaken
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-curl
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stir-shaken
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 19570
+Filename: asterisk-res-stir-shaken_20.3.0-1_mips_24kc.ipk
+Size: 20373
+SHA256sum: a2f386197a0401082284a1535a5fbbeed5103851612178bfc3f57f3ce21be905
+Description:  STIR/SHAKEN resource module.
+
+Package: asterisk-res-stun-monitor
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-stun-monitor
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6046
+Filename: asterisk-res-stun-monitor_20.3.0-1_mips_24kc.ipk
+Size: 6870
+SHA256sum: 245dcdcd5091a2bef138cf1bf8adf9d4b17c7f7a39e97837b30a74d94fb5e98f
+Description:  STUN network monitor.
+
+Package: asterisk-res-timing-dahdi
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-chan-dahdi
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-timing-dahdi
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 3281
+Filename: asterisk-res-timing-dahdi_20.3.0-1_mips_24kc.ipk
+Size: 4046
+SHA256sum: 7c76c6efb776a02e95961b3effda569dd230439da7d4bc12dbaf5a9f0a4a2db8
+Description:  DAHDI timing interface.
+
+Package: asterisk-res-timing-pthread
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-timing-pthread
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 4611
+Filename: asterisk-res-timing-pthread_20.3.0-1_mips_24kc.ipk
+Size: 5380
+SHA256sum: 746a1cc6035c0ddcf01d95c7ff42dbf7d23c464df010929e9c16fbf7836677b0
+Description:  pthread timing interface.
+
+Package: asterisk-res-tonedetect
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-tonedetect
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8597
+Filename: asterisk-res-tonedetect_20.3.0-1_mips_24kc.ipk
+Size: 9388
+SHA256sum: 5f7caf1cb09e194fe3ffcc7419e98596538ce5745e5322b1e7e72a86cdf4e47e
+Description:  Tone detection module.
+
+Package: asterisk-res-xmpp
+Version: 20.3.0-1
+Depends: libc, asterisk, libiksemel, libopenssl1.1
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-res-xmpp
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 39233
+Filename: asterisk-res-xmpp_20.3.0-1_mips_24kc.ipk
+Size: 40101
+SHA256sum: 80a8e2966c2cbb1ec43b6efc7b2f3cda93be69ab3dc3ddc28d4a3cd0bc5ba7b4
+Description:  Asterisk XMPP interface.
+
+Package: asterisk-sounds
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-sounds
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1923807
+Filename: asterisk-sounds_20.3.0-1_mips_24kc.ipk
+Size: 1925021
+SHA256sum: 456dd76df2311220bf3df2bbe7cedddec872f24891f9b858a685a6f898bd210d
+Description:  This package provides the sound-files for Asterisk.
+
+Package: asterisk-util-aelparse
+Version: 20.3.0-1
+Depends: libc, asterisk, asterisk-pbx-ael
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-aelparse
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 64877
+Filename: asterisk-util-aelparse_20.3.0-1_mips_24kc.ipk
+Size: 65590
+SHA256sum: f7eca63333a9325cb6fb8f68ac33be5aff243e7df1761416e3f7e3921d195de6
+Description:  Check extensions.ael file.
+
+Package: asterisk-util-astcanary
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-astcanary
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1980
+Filename: asterisk-util-astcanary_20.3.0-1_mips_24kc.ipk
+Size: 2782
+SHA256sum: ff9e7038e5eb4fbd31f7e6cbd13ea5feed1e356414f45d5548c9bfb85aef3ef6
+Description:  Assures Asterisk no threads have gone missing.
+
+Package: asterisk-util-astdb2bdb
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-astdb2bdb
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 20668
+Filename: asterisk-util-astdb2bdb_20.3.0-1_mips_24kc.ipk
+Size: 21472
+SHA256sum: 4ed1eea8f9fa1daff074f8645908b8fd45bd2d6b468325a75dd120bfee7813ed
+Description:  Convert astdb back to Berkeley DB 1.86.
+
+Package: asterisk-util-astdb2sqlite3
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-astdb2sqlite3
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 21133
+Filename: asterisk-util-astdb2sqlite3_20.3.0-1_mips_24kc.ipk
+Size: 21928
+SHA256sum: f9ae3e8c4cf3f43d9b623099068995f8d6cde4c52717c217ef9e0b531ce3893a
+Description:  Convert astdb to SQLite 3.
+
+Package: asterisk-util-check-expr2
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-check-expr2
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 14631
+Filename: asterisk-util-check-expr2_20.3.0-1_mips_24kc.ipk
+Size: 15392
+SHA256sum: 97845272d530149c8e5b4844ae85f22648d46c42f53218143863504e635e6be1
+Description:  Expression checker [newer version].
+
+Package: asterisk-util-check-expr
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-check-expr
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 17224
+Filename: asterisk-util-check-expr_20.3.0-1_mips_24kc.ipk
+Size: 18016
+SHA256sum: 1b908d7e7b9e5d5ffa21250f5a5b3e7b74f3427d60fd3433c3a24249ed726f60
+Description:  Expression checker [older version].
+
+Package: asterisk-util-smsq
+Version: 20.3.0-1
+Depends: libc, asterisk, libpopt0
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-smsq
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 8683
+Filename: asterisk-util-smsq_20.3.0-1_mips_24kc.ipk
+Size: 9503
+SHA256sum: 71cc8aa1d99a540f609161e413ff80325e0edd4d10c9f71022f23a9ea27b755f
+Description:  Send messages from command line.
+
+Package: asterisk-util-stereorize
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-stereorize
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 6798
+Filename: asterisk-util-stereorize_20.3.0-1_mips_24kc.ipk
+Size: 7624
+SHA256sum: 3fef3fc635fd4695daa1062757236c4edba2ead016dd496c6ef918e556759f7e
+Description:  Merge two mono WAV-files to one stereo WAV-file.
+
+Package: asterisk-util-streamplayer
+Version: 20.3.0-1
+Depends: libc, asterisk
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk-util-streamplayer
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 1988
+Filename: asterisk-util-streamplayer_20.3.0-1_mips_24kc.ipk
+Size: 2801
+SHA256sum: f39338ac9ef4404ef61c63669daee3c47ae1e7957478d2200e1c7ffa60013f5f
+Description:  A utility for reading from a raw TCP stream [MOH source].
+
+Package: asterisk
+Version: 20.3.0-1
+Depends: libc, libstdcpp6, jansson4, libcap, libedit, libopenssl1.1, libsqlite3-0, libuuid1, libxml2, zlib
+Source: feeds/telephony/net/asterisk
+SourceName: asterisk
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+Require-User: asterisk=385:asterisk=385
+SourceDateEpoch: 1670079223
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 941410
+Filename: asterisk_20.3.0-1_mips_24kc.ipk
+Size: 940710
+SHA256sum: 0f29a8bac86b5c9b1dbf20e2b4ab7ee6031843b4fe57e68c6c90fd9ba8009a05
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+
+Package: bcg729
+Version: 1.0.4-4
+Depends: libc
+Source: feeds/telephony/libs/bcg729
+SourceName: bcg729
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1570042117
+Maintainer: Alex Samorukov <samm@os2.kiev.ua>
+Architecture: mips_24kc
+Installed-Size: 29559
+Filename: bcg729_1.0.4-4_mips_24kc.ipk
+Size: 30473
+SHA256sum: c58baf2b9e4dd28f3a6c1532f836ff25cdf175a0c628f6753d52a988c7b56597
+Description:  Bcg729 is a software G729A encoder and decoder library written in C, developed
+ by Belledonne Communications, the company supporting the Linphone project.
+ It was written from scratch and is NOT a derivative work of ITU reference
+ source code in any kind.
+
+Package: dahdi-tools-libtonezone
+Version: 3.1.0-2
+Depends: libc, kmod-dahdi
+Source: feeds/telephony/libs/dahdi-tools
+SourceName: dahdi-tools-libtonezone
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1609427848
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: mips_24kc
+Installed-Size: 9479
+Filename: dahdi-tools-libtonezone_3.1.0-2_mips_24kc.ipk
+Size: 10182
+SHA256sum: 319fd0f543c5ccbc99b60241ed4ecac4965cc93c34ae277cd6f89be520d7953a
+Description:  DAHDI tonezone library
+
+Package: iptables-mod-rtpengine
+Version: 8.5.5.1-1
+Depends: libc, libxtables12
+Source: feeds/telephony/net/rtpengine
+SourceName: iptables-mod-rtpengine
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1630270833
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips_24kc
+Installed-Size: 1507
+Filename: iptables-mod-rtpengine_8.5.5.1-1_mips_24kc.ipk
+Size: 2307
+SHA256sum: 70e1d6fa41200d09d5f4f65e2f18a2a5259db8c0e9af684f883a89068476ec66
+Description:  Sipwise rtpengine iptables extension
+
+Package: libiksemel
+Version: 1.4-2
+Depends: libc, libgnutls
+Source: feeds/telephony/libs/iksemel
+SourceName: libiksemel
+License: LGPL-2.1
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1521181730
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 18032
+Filename: libiksemel_1.4-2_mips_24kc.ipk
+Size: 18958
+SHA256sum: 366972880b9f05cd897ba68a9ac1e2012f8ed8c8dfa653e970b8c0039099d65a
+Description:  Iksemel is an XML parser library mainly designed for Jabber applications.
+ It provides SAX, DOM, and special Jabber stream APIs. Library is coded
+ in ANSI C except the network code (which is POSIX compatible), thus
+ highly portable.
+
+Package: libpj
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpj
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 63409
+Filename: libpj_2.13-1_mips_24kc.ipk
+Size: 64289
+SHA256sum: ddbd6b5863ccf329e20898e7436aac4d7930ecbf7291e19edf379a0a9b2d02e6
+Description:  libpj library
+
+Package: libpjlib-util
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjlib-util
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 60354
+Filename: libpjlib-util_2.13-1_mips_24kc.ipk
+Size: 61189
+SHA256sum: cf23f9d392ca4d48da2993fa6f1d2a00553e2ccf76895c56b494d24ec1988e48
+Description:  libpjlib-util library
+
+Package: libpjmedia
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, libpjnath, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjmedia
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 109515
+Filename: libpjmedia_2.13-1_mips_24kc.ipk
+Size: 110143
+SHA256sum: 3d596087e6f5ec3bbf10672c85ee492313ee49dbdc000d2ea3bb85955bc1dc66
+Description:  libpjmedia library
+
+Package: libpjnath
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjnath
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 63062
+Filename: libpjnath_2.13-1_mips_24kc.ipk
+Size: 63713
+SHA256sum: e33b0ba686c34cc18c6b5593c3c78fbcc37ee4c2b385b35ce7375ebf26e9d317
+Description:  libpjnath library
+
+Package: libpjsip-simple
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, libpjsip, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjsip-simple
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 24847
+Filename: libpjsip-simple_2.13-1_mips_24kc.ipk
+Size: 25561
+SHA256sum: c7b718dc6f577646701246c0f259fc8f2a5f775376547c0c3732ac6a11a827a0
+Description:  libpjsip-simple library
+
+Package: libpjsip-ua
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, libpjmedia, libpjsip-simple, libpjsip, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjsip-ua
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 34857
+Filename: libpjsip-ua_2.13-1_mips_24kc.ipk
+Size: 35678
+SHA256sum: 31e5532766fb0276a59ab34e1644833f0e5b67775d69df611495e8a8ae59c7df
+Description:  libpjsip-ua library
+
+Package: libpjsip
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjsip
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 102175
+Filename: libpjsip_2.13-1_mips_24kc.ipk
+Size: 102742
+SHA256sum: 651f12eb6b14a5d285e7f82e82cd3636cd6276a1abaa04474247e63ce00a660b
+Description:  libpjsip library
+
+Package: libpjsua2
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsip, librt, libpjsua
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjsua2
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 118191
+Filename: libpjsua2_2.13-1_mips_24kc.ipk
+Size: 119001
+SHA256sum: 1ddae80396eb9ba7908bcd633f25e72f2667e93bd0bf32cbe3ee50a393942984
+Description:  libpjsua2 library
+
+Package: libpjsua
+Version: 2.13-1
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsip, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjsua
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+SourceDateEpoch: 1670078670
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 110190
+Filename: libpjsua_2.13-1_mips_24kc.ipk
+Size: 110852
+SHA256sum: c804a0e34e4f8f907c98cc44224a400294267d17d3d286f69f6d3686b53198ac
+Description:  libpjsua library
+
+Package: libpri
+Version: 1.6.0-3
+Depends: libc, dahdi-tools-libtonezone
+Source: feeds/telephony/libs/libpri
+SourceName: libpri
+Section: libs
+SourceDateEpoch: 1602235891
+Maintainer: Daniel Golle <daniel@makrotopia.org>
+Architecture: mips_24kc
+Installed-Size: 155112
+Filename: libpri_1.6.0-3_mips_24kc.ipk
+Size: 155616
+SHA256sum: 8a90eec442c1fa18a481b4ea34922843e8075095862f255600ce1d04ec37de18
+Description:  libpri is a C implementation of the Primary Rate ISDN specification. It was
+ based on the Bellcore specification SR-NWT-002343 for National ISDN. As of
+ May 12, 2001, it has been tested work with NI-2, Nortel DMS-100, and
+ Lucent 5E Custom protocols on switches from Nortel and Lucent.
+
+Package: libspandsp
+Version: 0.0.6-4
+Depends: libc, libtiff5
+Source: feeds/telephony/libs/spandsp
+SourceName: libspandsp
+License: LGPL-2.1 GPL-2.0
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1519466516
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 275568
+Filename: libspandsp_0.0.6-4_mips_24kc.ipk
+Size: 274156
+SHA256sum: 5bc42fa461944247f3a6b1340a2ecb6580e9064bc79df8f5fad7b62d89f76338
+Description:  spandsp library
+
+Package: libsrtp2
+Version: 2.3.0-1
+Depends: libc
+Source: feeds/telephony/libs/libsrtp
+SourceName: libsrtp2
+License: BSD-3-Clause
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1601744401
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips_24kc
+Installed-Size: 36492
+Filename: libsrtp2_2.3.0-1_mips_24kc.ipk
+Size: 36792
+SHA256sum: 8bda4ed03c34f8b6a32a8d53048238beae541e30120ef8be4bc2e8fc90b812c4
+Description:  Open-source implementation of the Secure Real-time Transport
+ Protocol (SRTP) originally authored by Cisco Systems, Inc.
+ It is available under a BSD-style license.
+
